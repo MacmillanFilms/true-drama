@@ -172,7 +172,7 @@ button:focus {
   cursor: pointer;
 }
 #carousel-thumbs img:hover {
-  border-color:#fc0202;
+  border-color: #e28c07;
 }
 #carousel-thumbs .selected img {
  border-color: #fc0202;
