@@ -113,6 +113,9 @@ a, a:hover{
 .trailer, .gallery, .watchit{
     background-color: #1e1e1e;
 }
+.gallery{
+    background-color: #10131c;
+}
 .trailer-box, .gallery-box , .watchit-box{
     padding: 3rem 0rem;
         background-color: #10131c;
