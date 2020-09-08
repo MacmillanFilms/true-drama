@@ -183,6 +183,14 @@ button:focus {
 .carousel-control-prev,
 .carousel-control-next {
   width: 50px;
+}.modal-open .modal {
+  
+    z-index: 99999999;
+    
+}
+.modal-backdrop {
+    
+    z-index: 999999;
 }
 @media all and (max-width: 767px) {
   .carousel-container #carousel-thumbs img {
