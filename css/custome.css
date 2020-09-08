@@ -192,6 +192,13 @@ button:focus {
     
     z-index: 999999;
 }
+.form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #5b6579;
+    outline: 0;
+    box-shadow: 0 0 0 0rem rgba(0,123,255,.25);
+}
 @media all and (max-width: 767px) {
   .carousel-container #carousel-thumbs img {
     border-width: 3px;
