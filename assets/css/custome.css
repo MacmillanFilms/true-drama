@@ -1,47 +1,62 @@
-@font-face { font-family:ariblk_0; src: url('../fonts/ariblk_0.ttf'); } 
-@font-face { font-family: MyriadPro-Regular; src: url('../fonts/MyriadPro-Regular.otf'); } 
+@font-face {
+    font-family: ariblk_0;
+    src: url('../fonts/ariblk_0.ttf');
+}
+
+@font-face {
+    font-family: MyriadPro-Regular;
+    src: url('../fonts/MyriadPro-Regular.otf');
+}
+
 html {
     position: relative;
-   height: 100%;
+    height: 100%;
     scroll-behavior: smooth;
 }
-body{
+
+body {
     font-family: MyriadPro-Regular;
     overflow-x: hidden;
     padding: 0px;
     margin: 0px;
     background-color: #ffff;
     overflow-x: hidden;
-        font-size: 15px;
-        color: #727277;
+    font-size: 15px;
+    color: #727277;
 }
-.nopadding{
+
+.nopadding {
     padding: 0px !important;
 }
-.hero{
+
+.hero {
     background-image: url('../img/hero.jpg');
     background-size: cover;
     background-position: center;
     display: block;
-        padding: 2rem 0rem 2rem;
+    padding: 2rem 0rem 2rem;
 }
-.main-text{
-        margin: 8rem 0rem;
+
+.main-text {
+    margin: 8rem 0rem;
 }
-a, a:hover{
+
+a, a:hover {
     color: inherit;
     transition: all 0.2s ease;
     text-decoration: none;
 }
-.follow a:hover{
+
+.follow a:hover {
     color: #fc0202;
 }
-.menu{
+
+.menu {
     background-color: #1a1a1a;
     padding: 13px 10px;
     color: #f9f9fa;
     border-bottom: 1px solid #dddddd;
-    font-family:ariblk_0;
+    font-family: ariblk_0;
     text-transform: uppercase;
     text-align: center;
     position: sticky;
@@ -49,60 +64,73 @@ a, a:hover{
     top: 0px;
     z-index: 99999
 }
-.menu li{
+
+.menu li {
     font-size: 17px;
     margin: 0px 21px;
 }
-.menu li.active a{
+
+.menu li.active a {
     color: #fc0202;
 }
-.menu li a:hover{
-     color: #fc0202;
+
+.menu li a:hover {
+    color: #fc0202;
 }
-.about{
+
+.about {
     background-color: #1e1e1e;
     padding: 3rem 0rem;
 }
-.title{
-        color: #f9f9fa;
+
+.title {
+    color: #f9f9fa;
     font-family: ariblk_0;
     font-size: 37px;
     text-transform: uppercase;
     margin-bottom: 15px;
 }
-.about-left-box{
+
+.about-left-box {
     background-color: #10131c;
-   padding: 2.5rem 1.5rem;
+    padding: 2.5rem 1.5rem;
 }
-.sub-title{
-   color: #f9f9fa;
+
+.sub-title {
+    color: #f9f9fa;
     font-family: ariblk_0;
     font-size: 19px;
     text-transform: uppercase;
     margin-bottom: 4px;
     line-height: 23px;
 }
-.actor{
+
+.actor {
     color: #fdfafa;
     font-size: 13px;
     margin: 24px 0px 0px;
 }
-.actor a:hover{
+
+.actor a:hover {
     color: #fc0202;
 }
-.mail-link{
+
+.mail-link {
     text-decoration: underline;
 }
-.mail-link:hover{
+
+.mail-link:hover {
     text-decoration: underline;
     color: #fc0202;
 }
-.border-title-box{
+
+.border-title-box {
     background-color: #fff;
-    padding: 13px 10px; 
+    padding: 13px 10px;
 }
-.border-title{
-        color: #10131c;
+
+.border-title {
+    color: #10131c;
     font-size: 37px;
     text-transform: uppercase;
     font-family: ariblk_0;
@@ -110,44 +138,56 @@ a, a:hover{
     padding-left: 22px;
     line-height: 40px;
 }
-.trailer, .gallery, .watchit{
+
+.trailer, .gallery, .watchit {
     background-color: #1e1e1e;
 }
-.gallery{
+
+.gallery {
     background-color: #10131c;
 }
-.trailer-box, .gallery-box , .watchit-box{
+
+.trailer-box, .gallery-box, .watchit-box {
     padding: 3rem 0rem;
-        background-color: #10131c;
+    background-color: #10131c;
 }
-.alert-white{
+
+.alert-white {
     background-color: #fff;
     color: #050505;
     border-top: 1px solid #10131c;
     border-radius: 0px;
 }
+
 button:focus {
     outline: 0px dotted;
     outline: 0px auto -webkit-focus-ring-color;
 }
-.copyrights{
+
+.copyrights {
     position: fixed;
     bottom: 0px;
     width: 100%;
 }
+
 .carousel {
-  position: relative;
+    position: relative;
 }
+
 .carousel-item img {
-  object-fit: cover;
+    object-fit: cover;
 }
+
 .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
     color: #fc0202;
 }
+
 .navbar-dark .navbar-nav .nav-link {
     color: rgb(249 249 250);
     padding: 0px;
-}.navbar-expand-sm {
+}
+
+.navbar-expand-sm {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
     -ms-flex-flow: row nowrap;
@@ -156,61 +196,71 @@ button:focus {
     -ms-flex-pack: start;
     justify-content: center;
 }
+
 .navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
     color: rgb(252 2 2);
 }
-#trailer, #gallery, #about{
-        padding-top: 51px;
+
+#trailer, #gallery, #about {
+    padding-top: 51px;
     margin-top: -51px;
 }
+
 #carousel-thumbs {
-  background: rgb(16 19 28);
+    background: rgb(16 19 28);
     bottom: 0;
     left: 0;
     padding: 0 50px;
     right: 0;
 }
+
 #carousel-thumbs img {
-      border: 3px solid transparent;
-  cursor: pointer;
+    border: 3px solid transparent;
+    cursor: pointer;
 }
+
 #carousel-thumbs img:hover {
-  border-color: #e28c07;
+    border-color: #e28c07;
 }
+
 #carousel-thumbs .selected img {
- border-color: #fc0202;
+    border-color: #fc0202;
 }
-.carousel-control-prev,
-.carousel-control-next {
-  width: 50px;
-}.modal-open .modal {
-  
+
+.carousel-control-prev, .carousel-control-next {
+    width: 50px;
+}
+
+.modal-open .modal {
     z-index: 99999999;
-    
 }
+
 .modal-backdrop {
-    
     z-index: 999999;
 }
+
 .form-control:focus {
     color: #495057;
     background-color: #fff;
     border-color: #5b6579;
     outline: 0;
-    box-shadow: 0 0 0 0rem rgba(0,123,255,.25);
+    box-shadow: 0 0 0 0rem rgba(0, 123, 255, .25);
 }
+
 @media all and (max-width: 767px) {
-  .carousel-container #carousel-thumbs img {
-    border-width: 3px;
-  }
+    .carousel-container #carousel-thumbs img {
+        border-width: 3px;
+    }
 }
+
 @media all and (min-width: 576px) {
-  .carousel-container #carousel-thumbs {
-    position: absolute;
-  }
+    .carousel-container #carousel-thumbs {
+        position: absolute;
+    }
 }
+
 @media all and (max-width: 576px) {
-  .carousel-container #carousel-thumbs {
-    background: #ccccce;
-  }
+    .carousel-container #carousel-thumbs {
+        background: #ccccce;
+    }
 }

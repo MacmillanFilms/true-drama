@@ -1,0 +1,45 @@
+---
+title: True Drama
+author: Macmillan Films
+timezone: America/New_York
+collections:
+  actors:
+    title: Actors
+    output: true
+    permalink: "/:collection/:title"
+    source: actors.csv
+    layout: actor
+    id_key: id
+defaults:
+- scope:
+    path: ''
+    type: actors
+  values:
+    layout: actor
+baseurl: 
+url: https://truedramamovie.com
+email: james@macmillanfilms.com
+enforce_ssl: truedramamovie.com
+description: >
+  Strange Bacchic disturbances in the woods protesting a local horror movie prompt a police investigation. A shadowy figure emerges. Calling himself the God of Drama, he believes that he can achieve the seemingly impossible goal of returning drama to its original purpose – of preparing citizens for leadership in democracy.
+image: "/assets/img/logo.svg"
+search: true
+markdown: kramdown
+plugins:
+- jekyll-sitemap
+- pagemaster
+jekyll-mentions:
+  base_url: https://github.com
+compress_html:
+  clippings: all
+  startings: all
+  endings: all
+  comments:
+    - ["<!-- , -->"]
+    - ["/* , */"]
+sass:
+  style: compressed
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
