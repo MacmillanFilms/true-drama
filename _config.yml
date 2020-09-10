@@ -21,6 +21,7 @@ defaults:
     type: actors
   values:
     layout: actor
+    banner: "/assets/img/hero.jpg"
 author: Macmillan Films
 baseurl: 
 url: https://truedramamovie.com
