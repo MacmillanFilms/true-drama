@@ -1,6 +1,5 @@
 ---
 title: True Drama
-author: Macmillan Films
 timezone: America/New_York
 collections:
   actors:
@@ -10,18 +9,29 @@ collections:
     source: actors.csv
     layout: actor
     id_key: id
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
 - scope:
     path: ''
     type: actors
   values:
     layout: actor
+author: Macmillan Films
 baseurl: 
 url: https://truedramamovie.com
 email: james@macmillanfilms.com
 enforce_ssl: truedramamovie.com
-description: >
-  Strange Bacchic disturbances in the woods protesting a local horror movie prompt a police investigation. A shadowy figure emerges. Calling himself the God of Drama, he believes that he can achieve the seemingly impossible goal of returning drama to its original purpose – of preparing citizens for leadership in democracy.
+description: 'Strange Bacchic disturbances in the woods protesting a local horror
+  movie prompt a police investigation. A shadowy figure emerges. Calling himself the
+  God of Drama, he believes that he can achieve the seemingly impossible goal of returning
+  drama to its original purpose – of preparing citizens for leadership in democracy.
+
+'
 image: "/assets/img/logo.svg"
 search: true
 markdown: kramdown
@@ -35,8 +45,8 @@ compress_html:
   startings: all
   endings: all
   comments:
-    - ["<!-- , -->"]
-    - ["/* , */"]
+  - - "<!-- , -->"
+  - - "/* , */"
 sass:
   style: compressed
 exclude:
