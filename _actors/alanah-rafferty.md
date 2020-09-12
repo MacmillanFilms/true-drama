@@ -35,7 +35,6 @@ gallery03: "/assets/img/alanah-rafferty/true-drama-03.jpg"
 gallery04: "/assets/img/alanah-rafferty/true-drama-04.jpg"
 gallery05: "/assets/img/alanah-rafferty/true-drama-05.jpg"
 gallery06: "/assets/img/alanah-rafferty/true-drama-06.jpg"
-
 thumbgallery01: "/assets/img/alanah-rafferty/thumb/true-drama-01.jpg"
 thumbgallery02: "/assets/img/alanah-rafferty/thumb/true-drama-02.jpg"
 thumbgallery03: "/assets/img/alanah-rafferty/thumb/true-drama-03.jpg"
