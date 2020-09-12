@@ -1,5 +1,6 @@
 ---
 title: Alanah Rafferty
+banner: "/assets/img/alanah-rafferty-hero.jpg"
 id: alanah-rafferty
 quote: 
 layout: actor
