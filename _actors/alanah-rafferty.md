@@ -29,6 +29,19 @@ aside: "Strange Bacchic disturbances in the woods protesting a local horror movi
   True Drama is an alarm – a rare moment of clarity – a terrifying jolt - and an invitation
   to enjoy the true transcendental power of drama to help us envision a better Democracy. "
 youtube: 1CJmOgGOBfA
+gallery01: "/assets/img/alanah-rafferty/true-drama-01.jpg"
+gallery02: "/assets/img/alanah-rafferty/true-drama-02.jpg"
+gallery03: "/assets/img/alanah-rafferty/true-drama-03.jpg"
+gallery04: "/assets/img/alanah-rafferty/true-drama-04.jpg"
+gallery05: "/assets/img/alanah-rafferty/true-drama-05.jpg"
+gallery06: "/assets/img/alanah-rafferty/true-drama-06.jpg"
+
+thumbgallery01: "/assets/img/alanah-rafferty/thumb/true-drama-01.jpg"
+thumbgallery02: "/assets/img/alanah-rafferty/thumb/true-drama-02.jpg"
+thumbgallery03: "/assets/img/alanah-rafferty/thumb/true-drama-03.jpg"
+thumbgallery04: "/assets/img/alanah-rafferty/thumb/true-drama-04.jpg"
+thumbgallery05: "/assets/img/alanah-rafferty/thumb/true-drama-05.jpg"
+thumbgallery06: "/assets/img/alanah-rafferty/thumb/true-drama-06.jpg"
 layout: actor
 ---
 
