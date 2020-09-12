@@ -30,6 +30,7 @@ aside: "Strange Bacchic disturbances in the woods protesting a local horror movi
   to enjoy the true transcendental power of drama to help us envision a better Democracy. "
 youtube: 1CJmOgGOBfA
 gallery01: "/assets/img/alanah-rafferty/true-drama-01.jpg"
+g01dsc: offering handcuffs modeling a new kind of policing111
 gallery02: "/assets/img/alanah-rafferty/true-drama-02.jpg"
 gallery03: "/assets/img/alanah-rafferty/true-drama-03.jpg"
 gallery04: "/assets/img/alanah-rafferty/true-drama-04.jpg"
