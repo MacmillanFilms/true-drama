@@ -37,4 +37,4 @@ Article content
 Aside content
 * {{ page.aside }}
 
-{% include actor-trailer.html id='1CJmOgGOBfA' %}
+
