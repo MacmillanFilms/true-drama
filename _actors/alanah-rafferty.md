@@ -22,7 +22,7 @@ aside: "Strange Bacchic disturbances in the woods protesting a local horror movi
   of Drama, he believes that he can achieve the seemingly impossible goal of returning
   drama to its original purpose – of preparing citizens for leadership in democracy.
   As the horror movie spirals out of control, and the Bacchae are consumed in violence
-  - can officer Ailish Walsh discern the truth before a gruesome Greek drama unfolds?\n<br>\n\nDirector
+  - can officer Ailish Walsh discern the truth before a gruesome Greek drama unfolds?\n<br>\n<br>\nDirector
   James Thomas creates a Greek tragedy for our time. A horror story that looks at
   the original role of drama – as the companion invention of democracy – to shed light
   on how modern media is still working in our lives, in hidden ways, to rip us apart.
