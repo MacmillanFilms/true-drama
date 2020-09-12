@@ -148,10 +148,12 @@ a, a:hover {
 }
 
 .trailer-box, .gallery-box, .watchit-box {
-    padding: 3rem 0rem;
+   
     background-color: #10131c;
 }
-
+.about-box, .trailer-box, .gallery-box, .watchit-box {
+ padding: 3rem 0rem;
+}
 .alert-white {
     background-color: #fff;
     color: #050505;
