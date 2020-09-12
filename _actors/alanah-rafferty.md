@@ -4,12 +4,11 @@ banner: "/assets/img/alanah-rafferty-hero.jpg"
 id: alanah-rafferty
 quote: 
 layout: actor
+aside: "Here you can even use <strong>HTML</strong>. Even <a href='http://jekyllrb.com'>Links</a>. But it looks nasty."
 ---
 
-content:
-I'm the main body content.
+Article content
+* Hey this is my content!
 
-other_section:
-And I'm some other stuff
-
-To find out more about Alanah Raffery, visit www.alanah-rafferty.com
+Aside content
+* {{ page.aside }}
