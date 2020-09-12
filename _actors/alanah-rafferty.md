@@ -37,3 +37,5 @@ Article content
 
 Aside content
 * {{ page.aside }}
+
+{% include youtubePlayer.html id=page.youtubeId %}
