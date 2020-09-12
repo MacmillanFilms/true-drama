@@ -38,4 +38,4 @@ Article content
 Aside content
 * {{ page.aside }}
 
-{% include actor.html id=page.youtubeId %}
+{% layout actor.html id=page.youtubeId %}
