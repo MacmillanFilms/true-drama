@@ -28,6 +28,7 @@ aside: "Strange Bacchic disturbances in the woods protesting a local horror movi
   on how modern media is still working in our lives, in hidden ways, to rip us apart.
   True Drama is an alarm – a rare moment of clarity – a terrifying jolt - and an invitation
   to enjoy the true transcendental power of drama to help us envision a better Democracy. "
+youtube:  8FcfJadYysk
 layout: actor
 ---
 
@@ -37,4 +38,6 @@ Article content
 Aside content
 * {{ page.aside }}
 
+Youtube content
+* {{ page.youtube }}
 
