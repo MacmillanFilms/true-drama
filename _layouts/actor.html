@@ -5,25 +5,18 @@ layout: actor-default
 <div class="about" id="about">
     <div class="container">
       <div class="row">
+        
         <div class="col-md-12 col-lg-3 text-center">
           <img src="{{ '/assets/img/about.jpg'  | relative_url }}" class="img-fluid" alt="About True Drama">
         </div>
-        <div class="col-md-8 col-lg-6">
+        <div class="col-md-12 col-lg-9">
           <div class="title">{{ page.title }}</div>
           <div class="blockquote">{{ page.quote }}</div>
           <div class="text-white">
               {{ content }}
           </div>
         </div>
-        <div class="col-md-4 col-lg-3">
-          <div class="about-left-box">
-            <div class="sub-title mb-4">ORIGINAL<br>THEATRICAL<br>RELEASE</div>
-            <div class="sub-title">RATING</div>
-            <p class="text-white">NR</p>
-            <div class="sub-title">GENRES</div>
-            <p class="text-white mb-0">Suspence/Thriller,<br>Drama,<br>Action/Advernture</p>
-          </div>
-        </div>
+        
         <div class="col-md-12">
             {% include actorlist.html %}
         </div>
