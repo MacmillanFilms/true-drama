@@ -1,6 +1,6 @@
 ---
 title: Alanah Rafferty
-banner: "/assets/img/alanah-rafferty-hero.jpg"
+banner: "/assets/img/alanah-rafferty/alanah-rafferty-hero.jpg"
 id: alanah-rafferty
 quote: 
 article: 'As an Amherst College and recent Actors Studio MFA graduate, Tatiana was
