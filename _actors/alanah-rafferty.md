@@ -45,7 +45,8 @@ gallery05: "/assets/img/alanah-rafferty/true-drama-05.jpg"
 g05dsc: deep underground in the private mausoleum
 g05alt: Tatiana Galliher
 gallery06: "/assets/img/alanah-rafferty/true-drama-06.jpg"
-g06dsc: Driving up to the Greenwich mansion modeled after the Château de Malmaison in French
+g06dsc: Driving up to the Greenwich mansion modeled after the Château de Malmaison
+  in French
 g06alt: Tatiana Galliher
 thumbgallery01: "/assets/img/alanah-rafferty/thumb/true-drama-01.jpg"
 thumbgallery02: "/assets/img/alanah-rafferty/thumb/true-drama-02.jpg"
