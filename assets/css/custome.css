@@ -146,6 +146,9 @@ a, a:hover {
 .gallery {
     background-color: #10131c;
 }
+.gallery-cust{
+ background-color: #1e1e1e
+}
 
 .trailer-box, .gallery-box, .watchit-box {
    
