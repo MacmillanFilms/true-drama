@@ -1,7 +1,7 @@
 ---
 title: Alicia Wolfram
 id: alicia-wolfram
-quote: A most quotable quote from Alicia Wolfram
+quote: A most quotable quote from Alicia Wolfram 1
 layout: actor
 ---
 
