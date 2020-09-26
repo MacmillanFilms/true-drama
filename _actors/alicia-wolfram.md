@@ -1,6 +1,7 @@
 ---
 title: Alicia Wolfram
 id: alicia-wolfram
+banner: "/assets/img/alanah-rafferty/aidan-laliberte-hero.jpg"
 quote: A most quotable quote from Alicia Wolfram 1
 layout: actor
 ---
