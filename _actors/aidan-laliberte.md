@@ -1,6 +1,6 @@
 ---
 title:  Aidan Laliberte
-banner: "/assets/img/alanah-rafferty/aidan-laliberte-hero.jpg"
+banner: "/assets/img/aidan-laliberte/aidan-laliberte-hero.jpg"
 id: aidan-laliberte
 quote: 
 article: ''
