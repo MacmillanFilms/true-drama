@@ -9,8 +9,8 @@ aside: >
  <p>To find out more about Tatiana, visit  <a href="https://www.titaniagalliher.com/" target="_blank" class="underline mail-link">www.titaniagalliher.com</a></p>
 youtube: "1CJmOgGOBfA"
 gallery01: "/assets/img/tatiana-galliher/true-drama-01.jpg"
-g01dsc: 
-g01alt: Alana 
+g01dsc: set photo in True Drama
+g01alt: Tatiana Galliher 
 gallery02: "/assets/img/gallery/true-drama-02.jpg"
 g02dsc: jumping fire in a secret ritual  
 g02alt: Morgan Marcum  
