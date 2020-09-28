@@ -9,8 +9,8 @@ aside: >
  <p>To find out more about AlanahRaffery, visit <a href="https://www.alanah-rafferty.com/" target="_blank" class="underline mail-link">www.alanah-rafferty.com</a></p>
 youtube: "1CJmOgGOBfA"
 gallery01: "/assets/img/alanah-rafferty/true-drama-01.jpg"
-g01dsc: offering handcuffs modeling a new kind of policing
-g01alt: Tatiana Galliher
+g01dsc: 
+g01alt: Alana 
 gallery02: "/assets/img/alanah-rafferty/true-drama-02.jpg"
 g02dsc: jumping fire in a secret ritual
 g02alt: Morgan Marcum
