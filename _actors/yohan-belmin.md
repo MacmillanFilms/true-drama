@@ -1,7 +1,7 @@
 ---
 title: Yohan Belmin
 banner: "/assets/img/yohan-belmin/yohan-belmin-hero.jpg"
-id: Yohan Belmin
+id: yohan-belmin
 quote: 
 article: >
  <p class="text-white">Yohan Belmin graduated from the Lee Strasberg Theatre & Film Institute and has a master’s degree from Paris Dauphine University. “I love playing villains,” Yohanexplains,“The slashers in True Drama are a dark reflection of Dionysos – his descendants fallen very low.  Instead of trying to elevate, our mission is to spread depravity.  This movie is a kind of meta-Greek drama exposing the downward trajectory of modern film – the inevitable by-product of seeking ever-greater thrills to shock.  I think it’sessential to question the role of drama. It is just entertainment? Or is it about preparing people?”</p>
