@@ -16,7 +16,7 @@ gallery02: "/assets/img/jonathan-frye/true-drama-02.jpg"
 g02dsc: photographed during the filming of True Drama   
 g02alt: Morgan Marcum  
 gallery03: "/assets/img/jonathan-frye/true-drama-03.jpg"
-g03dsc:photographed during the filming of True Drama 
+g03dsc: photographed during the filming of True Drama 
 g03alt: Alanah Rafferty 
 gallery04: "/assets/img/jonathan-frye/true-drama-04.jpg"
 g04dsc: photographed during the filming of True Drama 
