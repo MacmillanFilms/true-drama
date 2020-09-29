@@ -1,5 +1,5 @@
 ---
-title: Morgan Marcum
+title: Josh Elliott Pickel
 banner: "/assets/img/josh-elliott-pickel/josh-elliott-pickel-hero.jpg"
 id: josh-elliott-pickel
 quote: 
