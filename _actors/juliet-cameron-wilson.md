@@ -1,11 +1,11 @@
 ---
-title: Morgan Marcum
+title: Juliet Cameron-Wilson
 banner: "/assets/img/hero.jpg"
-id: morgan-marcum
+id: juliet-cameron-wilson
 quote: 
 article: >
- <p class="text-white">Morgan Marcum stars in many MacMillan productions including the chorus leader in the Bacchae and the Trojan priestess Cassandra in Agamemnon.  Morgan explains, “MacMillan Films has staged many Greek plays and it’s great to see them putting all that wisdom into a film for the general audience. Actors know that Greek drama is where it’s at – now everyone can experience the magic. I love playing a Bacchae. I am a Bacchae in real life, so I love to give myself entirely to music, dance and art.”</p>
- <p class="text-white">You can find out more about Morgan, at <a href="https://www.boundlessfusion.com/" target="_blank" class="underline mail-link">www.boundlessfusion.com </a> via e-mail <a href="mailto:ladyme.bee@gmail.com" target="_blank" class="underline mail-link">ladyme.bee@gmail.com</a></p>
+ <p class="text-white">Juliet Cameron-Wilson is a New York actor and playwright originally from England. With a BA with honors and an MA in English Literature from Cambridge, and an MFA in Acting from The Actors Studio, Juliet was a very easy choice to take on the role of Bacchae. “Wild things are going on in the woods of Greenwich,” Juliet explains, “and I’m in the center of it. It was great fun playing a Bacchae – it’s a part very close to my heart. I think the back story we had with the Bacchae in True Drama is very interesting. In the story, we are the ones who call Dionysos – he’s works for us. And the parallels a historical interpretation. One view of how Bacchae first came about is that a band of female Shiva devotees wondered over from India into Greece. And this gave Greek women the idea of claiming a protected vacation. The men couldn’t say anything about it because the god Dionysos ordered it.” </p>
+ <p class="text-white">You can find out more about Jackie, at <a href="https://www.julietcameronwilson.com/" target="_blank" class="underline mail-link">www.julietcameronwilson.com </a></p>
 aside: 'Strange Bacchic disturbances in the woods protesting a local horror movie prompt a police investigation. A shadowy figure emerges.  Calling himself the God of Drama, he believes that he can achieve the seemingly impossible goal of returning drama to its original purpose – of preparing citizens for leadership in democracy. As the horror movie spirals out of control, and the Bacchae are consumed in violence - can officer Ailish Walsh discern the truth before a gruesome Greek drama unfolds? <br><br> Director James Thomas creates a Greek tragedy for our time. A horror story that looks at the original role of drama – as the companion invention of democracy – to shed light on how modern media is still working in our lives, in hidden ways, to rip us apart. True Drama is an alarm – a rare moment of clarity – a terrifying jolt - and an invitation to enjoy the true transcendental power of drama to help us envision a better Democracy. '
 
 youtube: "1CJmOgGOBfA"
