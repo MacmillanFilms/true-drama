@@ -1,6 +1,6 @@
 ---
 title: Yohan Belmin
-banner: "/assets/img/yohan-belmin/yohan-belmin-hero.jpg"
+banner: "/assets/img/hero.jpg"
 id: yohan-belmin
 quote: 
 article: >
