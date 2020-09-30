@@ -1,6 +1,6 @@
 ---
 title: Philip Schaefer
-banner: "/assets/img/philip-schaefer/philip-schaefer-hero.jpg"
+banner: "/assets/img/hero.jpg"
 id: philip-schaefer
 quote: 
 article: >
