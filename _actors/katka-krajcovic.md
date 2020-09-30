@@ -1,6 +1,6 @@
 ---
 title: Katka Krajcovic
-banner: "/assets/img/katka-krajcovic/katka-krajcovic-hero.jpg"
+banner: "/assets/img/hero.jpg"
 id: katka-krajcovic
 quote: 
 article: >
