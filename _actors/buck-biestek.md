@@ -1,6 +1,6 @@
 ---
 title: Buck Biestek
-banner: "/assets/img/buck-biestek/buck-biestek-hero.jpg"
+banner: "/assets/img/hero.jpg"
 id: buck-biestek
 quote: 
 article: >
