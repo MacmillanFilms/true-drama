@@ -1,6 +1,6 @@
 ---
 title: Liam Armstrong
-banner: "/assets/img/liam-armstrong/liam-armstrong-hero.jpg"
+banner: "/assets/img/hero.jpg"
 id: liam-armstrong
 quote: 
 article: >
