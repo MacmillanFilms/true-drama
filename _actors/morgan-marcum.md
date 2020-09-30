@@ -1,6 +1,6 @@
 ---
 title: Morgan Marcum
-banner: "/assets/img/morgan-marcum/morgan-marcum-hero.jpg"
+banner: "/assets/img/hero.jpg"
 id: morgan-marcum
 quote: 
 article: >
