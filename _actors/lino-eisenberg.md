@@ -7,7 +7,10 @@ article: >
  <p class="text-white">JLino plays the obsessive teen fan Dick in True Drama. His roles in major features are maybe as a result of his being cast by MacMillan Films in Tue Drama.</p>
 aside: 'Strange Bacchic disturbances in the woods protesting a local horror movie prompt a police investigation. A shadowy figure emerges.  Calling himself the God of Drama, he believes that he can achieve the seemingly impossible goal of returning drama to its original purpose – of preparing citizens for leadership in democracy. As the horror movie spirals out of control, and the Bacchae are consumed in violence - can officer Ailish Walsh discern the truth before a gruesome Greek drama unfolds? <br><br> Director James Thomas creates a Greek tragedy for our time. A horror story that looks at the original role of drama – as the companion invention of democracy – to shed light on how modern media is still working in our lives, in hidden ways, to rip us apart. True Drama is an alarm – a rare moment of clarity – a terrifying jolt - and an invitation to enjoy the true transcendental power of drama to help us envision a better Democracy. '
 
-youtube: "1CJmOgGOBfA"
+youtube: "fz2SIyeKMIg"
+gallery001: "/assets/img/lino-eisenberg/true-drama-001.jpg"
+g001dsc: photographed during the filming of True Drama
+g001alt: Lino Eisenberg 
 gallery01: "/assets/img/lino-eisenberg/true-drama-01.jpg"
 g01dsc: photographed during the filming of True Drama
 g01alt: Lino Eisenberg 
@@ -80,6 +83,7 @@ g23alt: Jose Ramos
 gallery24: "/assets/img/gallery/true-drama-24.jpg"
 g24dsc: Driving up to the Greenwich mansion modeled after the Château de Malmaison in French
 g24alt: Jose Ramos
+thumbgallery001: "/assets/img/lino-eisenberg/thumb/true-drama-001.jpg"
 thumbgallery01: "/assets/img/lino-eisenberg/thumb/true-drama-01.jpg"
 thumbgallery02: "/assets/img/lino-eisenberg/thumb/true-drama-02.jpg"
 thumbgallery03: "/assets/img/lino-eisenberg/thumb/true-drama-03.jpg"
