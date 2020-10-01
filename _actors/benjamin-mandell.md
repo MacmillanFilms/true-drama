@@ -1,6 +1,6 @@
 ---
 title: Benjamin Mandell
-banner: "/assets/img/hero.jpg"
+banner: "/assets/img/benjamin-mandell/benjamin-mandell-hero.jpg"
 id: benjamin-mandell
 quote: 
 article: >
