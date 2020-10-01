@@ -60,7 +60,12 @@ layout: actor-default
         <div class="col-md-10 col-lg-12 text-center p-0">
           <div id="myCarousel" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
-              <div class="carousel-item active" data-slide-number="0"
+                <div class="carousel-item active" data-slide-number="01"
+                aria-label="{{ page.g001dsc }}" role="img">
+                <img src="{{ page.gallery001 | relative_url }}" class="d-block w-100" alt="{{ page.g001alt }}"
+                  data-type="image" data-toggle="lightbox" data-gallery="example-gallery">
+              </div>
+              <div class="carousel-item" data-slide-number="0"
                 aria-label="{{ page.g01dsc }}" role="img">
                 <img src="{{ page.gallery01 | relative_url }}" class="d-block w-100" alt="{{ page.g01alt }}"
                   data-type="image" data-toggle="lightbox" data-gallery="example-gallery">
@@ -212,6 +217,12 @@ layout: actor-default
             <div class="carousel-inner">
               <div class="carousel-item active">
                 <div class="row mx-0">
+                    <div id="carousel-selector-01" class="thumb col-4 col-sm-2 px-1 py-2 selected"
+                    data-target="#myCarousel" data-slide-to="01"
+                    aria-label="{{ page.g011dsc }}" role="img">
+                    <img src="{{ page.thumbgallery011 | relative_url }}" class="img-fluid"
+                      alt="{{ page.g011alt }}">
+                  </div>
                   <div id="carousel-selector-0" class="thumb col-4 col-sm-2 px-1 py-2 selected"
                     data-target="#myCarousel" data-slide-to="0"
                     aria-label="{{ page.g01dsc }}" role="img">
@@ -242,19 +253,20 @@ layout: actor-default
                     <img src="{{ page.thumbgallery05 | relative_url }}" class="img-fluid"
                       alt="{{ page.g05alt }}">
                   </div>
-                  <div id="carousel-selector-5" class="thumb col-4 col-sm-2 px-1 py-2"
-                    data-target="#myCarousel" data-slide-to="5"
-                    aria-label="{{ page.g06dsc }}"
-                    role="img">
-                    <img src="{{ page.thumbgallery06 | relative_url }}" class="img-fluid"
-                      alt="{{ page.g06alt }} ">
-                  </div>
+                  
 
                 </div>
               </div>
 
       <div class="carousel-item ">
                 <div class="row mx-0">
+<div id="carousel-selector-5" class="thumb col-4 col-sm-2 px-1 py-2"
+                    data-target="#myCarousel" data-slide-to="5"
+                    aria-label="{{ page.g06dsc }}"
+                    role="img">
+                    <img src="{{ page.thumbgallery06 | relative_url }}" class="img-fluid"
+                      alt="{{ page.g06alt }} ">
+                  </div>
                   <div id="carousel-selector-6" class="thumb col-4 col-sm-2 px-1 py-2 selected"
                     data-target="#myCarousel" data-slide-to="6"
                     aria-label="{{ page.g07dsc }}" role="img">
@@ -285,19 +297,20 @@ layout: actor-default
                     <img src="{{ page.thumbgallery11 | relative_url }}" class="img-fluid"
                       alt="{{ page.g11alt }}">
                   </div>
-                  <div id="carousel-selector-11" class="thumb col-4 col-sm-2 px-1 py-2"
-                    data-target="#myCarousel" data-slide-to="11"
-                    aria-label="{{ page.g12dsc }}"
-                    role="img">
-                    <img src="{{ page.thumbgallery12 | relative_url }}" class="img-fluid"
-                      alt="{{ page.g12alt }} ">
-                  </div>
+                  
 
                 </div>
               </div>
 
 <div class="carousel-item ">
                 <div class="row mx-0">
+<div id="carousel-selector-11" class="thumb col-4 col-sm-2 px-1 py-2"
+                    data-target="#myCarousel" data-slide-to="11"
+                    aria-label="{{ page.g12dsc }}"
+                    role="img">
+                    <img src="{{ page.thumbgallery12 | relative_url }}" class="img-fluid"
+                      alt="{{ page.g12alt }} ">
+                  </div>
                   <div id="carousel-selector-12" class="thumb col-4 col-sm-2 px-1 py-2 selected"
                     data-target="#myCarousel" data-slide-to="12"
                     aria-label="{{ page.g13dsc }}" role="img">
@@ -328,18 +341,19 @@ layout: actor-default
                     <img src="{{ page.thumbgallery17 | relative_url }}" class="img-fluid"
                       alt="{{ page.g17alt }}">
                   </div>
-                  <div id="carousel-selector-17" class="thumb col-4 col-sm-2 px-1 py-2"
+                  
+
+                </div>
+              </div>
+<div class="carousel-item ">
+                <div class="row mx-0">
+<div id="carousel-selector-17" class="thumb col-4 col-sm-2 px-1 py-2"
                     data-target="#myCarousel" data-slide-to="17"
                     aria-label="{{ page.g18dsc }}"
                     role="img">
                     <img src="{{ page.thumbgallery18 | relative_url }}" class="img-fluid"
                       alt="{{ page.g18alt }} ">
                   </div>
-
-                </div>
-              </div>
-<div class="carousel-item ">
-                <div class="row mx-0">
                   <div id="carousel-selector-18" class="thumb col-4 col-sm-2 px-1 py-2 selected"
                     data-target="#myCarousel" data-slide-to="18"
                     aria-label="{{ page.g19dsc }}" role="img">
@@ -370,13 +384,7 @@ layout: actor-default
                     <img src="{{ page.thumbgallery23 | relative_url }}" class="img-fluid"
                       alt="{{ page.g23alt }}">
                   </div>
-                  <div id="carousel-selector-23" class="thumb col-4 col-sm-2 px-1 py-2"
-                    data-target="#myCarousel" data-slide-to="23"
-                    aria-label="{{ page.g24dsc }}"
-                    role="img">
-                    <img src="{{ page.thumbgallery24 | relative_url }}" class="img-fluid"
-                      alt="{{ page.g24alt }} ">
-                  </div>
+                  
 
                 </div>
               </div>
