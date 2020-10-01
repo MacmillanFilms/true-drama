@@ -1,6 +1,6 @@
 ---
 title: Jackie Paladino
-banner: "/assets/img/hero.jpg"
+banner: "/assets/img/jackie-paladino/jackie-paladino-hero.jpg"
 id: jackie-paladino
 quote: 
 article: >
@@ -8,15 +8,15 @@ article: >
  <p class="text-white">You can find out more about Jackie, at <a href="http://www.soundbetter.com/profiles/94636-jacqueline-paladino" target="_blank" class="underline mail-link">www.soundbetter.com/profiles/94636-jacqueline-paladino</a></p>
 aside: 'Strange Bacchic disturbances in the woods protesting a local horror movie prompt a police investigation. A shadowy figure emerges.  Calling himself the God of Drama, he believes that he can achieve the seemingly impossible goal of returning drama to its original purpose – of preparing citizens for leadership in democracy. As the horror movie spirals out of control, and the Bacchae are consumed in violence - can officer Ailish Walsh discern the truth before a gruesome Greek drama unfolds? <br><br> Director James Thomas creates a Greek tragedy for our time. A horror story that looks at the original role of drama – as the companion invention of democracy – to shed light on how modern media is still working in our lives, in hidden ways, to rip us apart. True Drama is an alarm – a rare moment of clarity – a terrifying jolt - and an invitation to enjoy the true transcendental power of drama to help us envision a better Democracy. '
 
-youtube: "1CJmOgGOBfA"
+youtube: "fz2SIyeKMIg"
+gallery001: "/assets/img/jackie-paladino/true-drama-001.jpg"
+g001dsc: photographed during the filming
+g001alt: Jackie Paladino 
 gallery01: "/assets/img/jackie-paladino/true-drama-01.jpg"
-g01dsc: photographed during the filming
-g01alt: Jackie Paladino 
+g01dsc: photographed during the filming 
+g01alt: Jackie Paladino  
 gallery02: "/assets/img/jackie-paladino/true-drama-02.jpg"
-g02dsc: photographed during the filming 
-g02alt: Jackie Paladino  
-gallery03: "/assets/img/jackie-paladino/true-drama-03.jpg"
-g03dsc: photographed during the filming
+g02dsc: photographed during the filming
 g03alt: Jackie Paladino 
 gallery04: "/assets/img/gallery/true-drama-04.jpg"
 g04dsc: center stage in True Drama 
@@ -78,12 +78,12 @@ g22alt: Katka Krajcovic
 gallery23: "/assets/img/gallery/true-drama-23.jpg"
 g23dsc: Detective Oliva in from of the crime board
 g23alt: Jose Ramos
-gallery24: "/assets/img/gallery/true-drama-24.jpg"
-g24dsc: Driving up to the Greenwich mansion modeled after the Château de Malmaison in French
-g24alt: Jose Ramos
+gallery03: "/assets/img/gallery/true-drama-03.jpg"
+g03dsc: Driving up to the Greenwich mansion modeled after the Château de Malmaison in French
+g03alt: Jose Ramos
+thumbgallery001: "/assets/img/jackie-paladino/thumb/true-drama-001.jpg"
 thumbgallery01: "/assets/img/jackie-paladino/thumb/true-drama-01.jpg"
 thumbgallery02: "/assets/img/jackie-paladino/thumb/true-drama-02.jpg"
-thumbgallery03: "/assets/img/jackie-paladino/thumb/true-drama-03.jpg"
 thumbgallery04: "/assets/img/gallery/thumb/true-drama-04.jpg"
 thumbgallery05: "/assets/img/gallery/thumb/true-drama-05.jpg"
 thumbgallery06: "/assets/img/gallery/thumb/true-drama-06.jpg"
@@ -104,7 +104,7 @@ thumbgallery20: "/assets/img/gallery/thumb/true-drama-20.jpg"
 thumbgallery21: "/assets/img/gallery/thumb/true-drama-21.jpg"
 thumbgallery22: "/assets/img/gallery/thumb/true-drama-22.jpg"
 thumbgallery23: "/assets/img/gallery/thumb/true-drama-23.jpg"
-thumbgallery24: "/assets/img/gallery/thumb/true-drama-24.jpg"
+thumbgallery03: "/assets/img/gallery/thumb/true-drama-03.jpg"
 
 layout: actor
 ---
