@@ -1,6 +1,6 @@
 ---
 title: Tatiana Galliher
-banner: "/assets/img/hero.jpg"
+banner: "/assets/img/tatiana-galliher/tatiana-galliher-hero.jpg"
 id: tatiana-galliher
 quote: 
 article: >
