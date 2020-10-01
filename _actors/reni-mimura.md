@@ -1,6 +1,6 @@
 ---
 title: Reni Mimura
-banner: "/assets/img/hero.jpg"
+banner: "/assets/img/reni-mimura/reni-mimura-hero.jpg"
 id: reni-mimura
 quote: 
 article: >
