@@ -11,28 +11,28 @@ aside: 'Strange Bacchic disturbances in the woods protesting a local horror movi
 youtube: "fz2SIyeKMIg"
 gallery001: "/assets/img/arianna-wellmoney/true-drama-001.jpg"
 g001dsc: photographed during the filming of True Drama 
-g001alt: Tatiana Galliher 
+g001alt: Arianna Wellmoney 
 gallery01: "/assets/img/arianna-wellmoney/true-drama-01.jpg"
 g01dsc: photographed during the filming of True Drama 
-g01alt: Tatiana Galliher 
+g01alt: Arianna Wellmoney
 gallery02: "/assets/img/arianna-wellmoney/true-drama-02.jpg"
 g02dsc: photographed during the filming of True Drama  
-g02alt: Morgan Marcum  
+g02alt: Arianna Wellmoney  
 gallery03: "/assets/img/arianna-wellmoney/true-drama-03.jpg"
 g03dsc: photographed during the filming of True Drama
-g03alt: Alanah Rafferty 
+g03alt: Arianna Wellmoney 
 gallery04: "/assets/img/arianna-wellmoney/true-drama-04.jpg"
 g04dsc: photographed during the filming of True Drama 
-g04alt: James Thomas
+g04alt: Arianna Wellmoney
 gallery05: "/assets/img/arianna-wellmoney/true-drama-05.jpg"
 g05dsc: photographed during the filming of True Drama
-g05alt: Tatiana Galliher  
+g05alt: Arianna Wellmoney 
 gallery06: "/assets/img/arianna-wellmoney/true-drama-06.jpg"
 g06dsc:  photographed during the filming of True Drama
-g06alt: Tatiana Galliher  
-gallery07: "/assets/img/gallery/true-drama-07.jpg"
+g06alt: Arianna Wellmoney 
+gallery07: "/assets/img/arianna-wellmoney/true-drama-07.jpg"
 g07dsc:  Officer Walsh approached the wealth Greenwich patron Mrs. Benedict
-g07alt: Tatiana Galliher  
+g07alt: Arianna Wellmoney  
 gallery08: "/assets/img/gallery/true-drama-08.jpg"
 g08dsc:  a close-up of the new terrifying slasher mask with it's fish-like gaping mouth
 g08alt: AYohan Belmin
@@ -91,7 +91,7 @@ thumbgallery03: "/assets/img/arianna-wellmoney/thumb/true-drama-03.jpg"
 thumbgallery04: "/assets/img/arianna-wellmoney/thumb/true-drama-04.jpg"
 thumbgallery05: "/assets/img/arianna-wellmoney/thumb/true-drama-05.jpg"
 thumbgallery06: "/assets/img/arianna-wellmoney/thumb/true-drama-06.jpg"
-thumbgallery07: "/assets/img/gallery/thumb/true-drama-07.jpg"
+thumbgallery07: "/assets/img/arianna-wellmoney/thumb/true-drama-07.jpg"
 thumbgallery08: "/assets/img/gallery/thumb/true-drama-08.jpg"
 thumbgallery09: "/assets/img/gallery/thumb/true-drama-09.jpg"
 thumbgallery10: "/assets/img/gallery/thumb/true-drama-10.jpg"
