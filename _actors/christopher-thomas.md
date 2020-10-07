@@ -27,9 +27,9 @@ g04alt: Christopher Thomas
 gallery05: "/assets/img/christopher-thomas/true-drama-05.jpg"
 g05dsc: photographed during the filming of True Drama 
 g05alt: Christopher Thomas  
-gallery06: "/assets/img/gallery/true-drama-06.jpg"
-g06dsc:  Driving up to the Greenwich mansion modeled after the Château de Malmaison in French 
-g06alt: Tatiana Galliher  
+gallery06: "/assets/img/christopher-thomas/true-drama-06.jpg"
+g06dsc:  photographed during the filming of True Drama
+g06alt: Christopher Thomas    
 gallery07: "/assets/img/gallery/true-drama-07.jpg"
 g07dsc:  Officer Walsh approached the wealth Greenwich patron Mrs. Benedict
 g07alt: Tatiana Galliher  
@@ -90,7 +90,7 @@ thumbgallery02: "/assets/img/christopher-thomas/thumb/true-drama-02.jpg"
 thumbgallery03: "/assets/img/christopher-thomas/thumb/true-drama-03.jpg"
 thumbgallery04: "/assets/img/christopher-thomas/thumb/true-drama-04.jpg"
 thumbgallery05: "/assets/img/christopher-thomas/thumb/true-drama-05.jpg"
-thumbgallery06: "/assets/img/gallery/thumb/true-drama-06.jpg"
+thumbgallery06: "/assets/img/christopher-thomas/thumb/true-drama-06.jpg"
 thumbgallery07: "/assets/img/gallery/thumb/true-drama-07.jpg"
 thumbgallery08: "/assets/img/gallery/thumb/true-drama-08.jpg"
 thumbgallery09: "/assets/img/gallery/thumb/true-drama-09.jpg"
