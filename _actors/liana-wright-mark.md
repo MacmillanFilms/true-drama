@@ -1,6 +1,6 @@
 ---
 title: Liana Wright Mark
-banner: "/assets/img/hero.jpg"
+banner: "/assets/img/liana-wright-mark/liana-wright-mark-hero.jpg"
 id: liana-wright-mark
 quote: 
 article: >
