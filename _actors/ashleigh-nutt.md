@@ -1,6 +1,6 @@
 ---
 title: Ashleigh Nutt
-banner: "/assets/img/ashleigh-nutt/ashleigh-nutt-hero.jpg"
+banner: "/assets/img/ashleigh-nutt/ashley-nutt-hero.jpg"
 id: Ashleigh Nutt
 quote: 
 article: >
