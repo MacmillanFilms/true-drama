@@ -65,11 +65,11 @@ g17alt: Alanah Rafferty
 gallery18: "/assets/img/alanah-rafferty/true-drama-18.jpg"
 g18dsc:  photographed during the filming of True Drama 
 g18alt: Alanah Rafferty 
-gallery19: "/assets/img/gallery/true-drama-19.jpg"
-g19dsc: Dionsysos uses flash powder to create a distraction so he can avoid being tased by police
+gallery19: "/assets/img/alanah-rafferty/true-drama-19.jpg"
+g19dsc: photographed during the filming of True Drama 
 g19alt: James Thomas
-gallery20: "/assets/img/gallery/true-drama-20.jpg"
-g20dsc: Sara feels someone is looking at her through the window, as she showers in the Slasher's house
+gallery20: "/assets/img/alanah-rafferty/true-drama-20.jpg"
+g20dsc: photographed during the filming of True Drama 
 g20alt: Alanah Rafferty
 gallery21: "/assets/img/gallery/true-drama-21.jpg"
 g21dsc: The Greenwich Slasher wearing his mask and spying on the women in the shower
@@ -102,8 +102,8 @@ thumbgallery15: "/assets/img/alanah-rafferty/thumb/true-drama-15.jpg"
 thumbgallery16: "/assets/img/alanah-rafferty/thumb/true-drama-16.jpg"
 thumbgallery17: "/assets/img/alanah-rafferty/thumb/true-drama-17.jpg"
 thumbgallery18: "/assets/img/alanah-rafferty/thumb/true-drama-18.jpg"
-thumbgallery19: "/assets/img/gallery/thumb/true-drama-19.jpg"
-thumbgallery20: "/assets/img/gallery/thumb/true-drama-20.jpg"
+thumbgallery19: "/assets/img/alanah-rafferty/thumb/true-drama-19.jpg"
+thumbgallery20: "/assets/img/alanah-rafferty/thumb/true-drama-20.jpg"
 thumbgallery21: "/assets/img/gallery/thumb/true-drama-21.jpg"
 thumbgallery22: "/assets/img/gallery/thumb/true-drama-22.jpg"
 thumbgallery23: "/assets/img/gallery/thumb/true-drama-23.jpg"
