@@ -1,6 +1,6 @@
 ---
 title: Heather Gault
-banner: "/assets/img/hero.jpg"
+banner: "/assets/img/heather-gault/heather-gault-hero.jpg"
 id: heather-gault
 quote: 
 article: >
