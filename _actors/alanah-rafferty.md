@@ -67,7 +67,7 @@ g18dsc:  photographed during the filming of True Drama
 g18alt: Alanah Rafferty 
 gallery19: "/assets/img/alanah-rafferty/true-drama-19.jpg"
 g19dsc: photographed during the filming of True Drama 
-g19alt: James Thomas
+g19alt: Alanah Rafferty 
 gallery20: "/assets/img/alanah-rafferty/true-drama-20.jpg"
 g20dsc: photographed during the filming of True Drama 
 g20alt: Alanah Rafferty
