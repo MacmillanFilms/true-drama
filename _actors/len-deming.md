@@ -1,6 +1,6 @@
 ---
 title: Len Deming
-banner: "/assets/img/hero.jpg"
+banner: "/assets/img/len-deming/len-deming-hero.jpg"
 id: len-deming
 quote: 
 article: >
