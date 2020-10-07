@@ -18,9 +18,9 @@ g01alt: David Mcleod
 gallery02: "/assets/img/david-mcleod/true-drama-02.jpg"
 g02dsc: David Mcleod
 g02alt: David Mcleod  
-gallery03: "/assets/img/gallery/true-drama-03.jpg"
-g03dsc: attempts escape from the Slashers nest
-g03alt: Alanah Rafferty 
+gallery03: "/assets/img/david-mcleod/true-drama-03.jpg"
+g03dsc: David Mcleod
+g03alt: David Mcleod 
 gallery04: "/assets/img/gallery/true-drama-04.jpg"
 g04dsc: center stage in True Drama 
 g04alt: James Thomas
@@ -87,7 +87,7 @@ g24alt: Jose Ramos
 thumbgallery001: "/assets/img/david-mcleod/thumb/true-drama-001.jpg"
 thumbgallery01: "/assets/img/david-mcleod/thumb/true-drama-01.jpg"
 thumbgallery02: "/assets/img/david-mcleod/thumb/true-drama-02.jpg"
-thumbgallery03: "/assets/img/gallery/thumb/true-drama-03.jpg"
+thumbgallery03: "/assets/img/david-mcleod/thumb/true-drama-03.jpg"
 thumbgallery04: "/assets/img/gallery/thumb/true-drama-04.jpg"
 thumbgallery05: "/assets/img/gallery/thumb/true-drama-05.jpg"
 thumbgallery06: "/assets/img/gallery/thumb/true-drama-06.jpg"
