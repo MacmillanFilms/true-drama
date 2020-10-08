@@ -10,17 +10,17 @@ aside: 'Strange Bacchic disturbances in the woods protesting a local horror movi
 
 youtube: "fz2SIyeKMIg"
 gallery001: "/assets/img/melissa-croy/true-drama-001.jpg"
-g001dsc: offering handcuffs modeling a new kind of policing
-g001alt: Tatiana Galliher
+g001dsc: Melissa Croy
+g001alt: Melissa Croy
 gallery01: "/assets/img/melissa-croy/true-drama-01.jpg"
-g01dsc: offering handcuffs modeling a new kind of policing
-g01alt: Tatiana Galliher 
-gallery02: "/assets/img/gallery/true-drama-02.jpg"
-g02dsc: jumping fire in a secret ritual  
-g02alt: Morgan Marcum  
-gallery03: "/assets/img/gallery/true-drama-03.jpg"
-g03dsc: attempts escape from the Slashers nest
-g03alt: Alanah Rafferty 
+g01dsc: Melissa Croy
+g01alt: Melissa Croy 
+gallery02: "/assets/img/melissa-croy/true-drama-02.jpg"
+g02dsc: Melissa Croy  
+g02alt: Melissa Croy 
+gallery03: "/assets/img/melissa-croy/true-drama-03.jpg"
+g03dsc: Melissa Croy
+g03alt: Melissa Croy 
 gallery04: "/assets/img/gallery/true-drama-04.jpg"
 g04dsc: center stage in True Drama 
 g04alt: James Thomas
@@ -86,8 +86,8 @@ g24dsc: Driving up to the Greenwich mansion modeled after the Château de Malmai
 g24alt: Jose Ramos
 thumbgallery001: "/assets/img/melissa-croy/thumb/true-drama-001.jpg"
 thumbgallery01: "/assets/img/melissa-croy/thumb/true-drama-01.jpg"
-thumbgallery02: "/assets/img/gallery/thumb/true-drama-02.jpg"
-thumbgallery03: "/assets/img/gallery/thumb/true-drama-03.jpg"
+thumbgallery02: "/assets/img/melissa-croy/thumb/true-drama-02.jpg"
+thumbgallery03: "/assets/img/melissa-croy/thumb/true-drama-03.jpg"
 thumbgallery04: "/assets/img/gallery/thumb/true-drama-04.jpg"
 thumbgallery05: "/assets/img/gallery/thumb/true-drama-05.jpg"
 thumbgallery06: "/assets/img/gallery/thumb/true-drama-06.jpg"
