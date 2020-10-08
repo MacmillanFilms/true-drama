@@ -45,9 +45,9 @@ g10alt: Katherine Galanova
 gallery11: "/assets/img/katherine-galanova/true-drama-11.jpg"
 g11dsc:  photographed during the filming of True Drama 
 g11alt: Katherine Galanova
-gallery12: "/assets/img/gallery/true-drama-12.jpg"
-g12dsc:  Sara's POV from inside a coffin, looking up at the terrifying masked slasher 
-g12alt: Scott Kozel 
+gallery12: "/assets/img/katherine-galanova/true-drama-12.jpg"
+g12dsc:  photographed during the filming of True Drama
+g12alt: Katherine Galanova 
 gallery13: "/assets/img/gallery/true-drama-13.jpg"
 g13dsc:  A tracking shot of the slasher taking his female captive to his underground lair 
 g13alt: Scott Kozel 
@@ -96,7 +96,7 @@ thumbgallery08: "/assets/img/katherine-galanova/thumb/true-drama-08.jpg"
 thumbgallery09: "/assets/img/katherine-galanova/thumb/true-drama-09.jpg"
 thumbgallery10: "/assets/img/katherine-galanova/thumb/true-drama-10.jpg"
 thumbgallery11: "/assets/img/katherine-galanova/thumb/true-drama-11.jpg"
-thumbgallery12: "/assets/img/gallery/thumb/true-drama-12.jpg"
+thumbgallery12: "/assets/img/katherine-galanova/thumb/true-drama-12.jpg"
 thumbgallery13: "/assets/img/gallery/thumb/true-drama-13.jpg"
 thumbgallery14: "/assets/img/gallery/thumb/true-drama-14.jpg"
 thumbgallery15: "/assets/img/gallery/thumb/true-drama-15.jpg"
