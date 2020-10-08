@@ -12,9 +12,9 @@ youtube: "1CJmOgGOBfA"
 gallery001: "/assets/img/yohan-belmin/true-drama-001.jpg"
 g001dsc: set photo in True Drama
 g001alt: Yohan Belmin 
-gallery01: "/assets/img/gallery/true-drama-01.jpg"
-g01dsc: jumping fire in a secret ritual  
-g01alt: Morgan Marcum  
+gallery01: "/assets/img/yohan-belmin/true-drama-01.jpg"
+g01dsc: set photo in True Drama  
+g01alt:Yohan Belmin   
 gallery03: "/assets/img/gallery/true-drama-03.jpg"
 g03dsc: attempts escape from the Slashers nest
 g03alt: Alanah Rafferty 
@@ -78,11 +78,11 @@ g22alt: Katka Krajcovic
 gallery23: "/assets/img/gallery/true-drama-23.jpg"
 g23dsc: Detective Oliva in from of the crime board
 g23alt: Jose Ramos
-gallery02: "/assets/img/gallery/true-drama-02.jpg"
-g02dsc: Driving up to the Greenwich mansion modeled after the Château de Malmaison in French
-g02alt: Jose Ramos
+gallery02: "/assets/img/yohan-belmin/true-drama-02.jpg"
+g02dsc: set photo in True Drama
+g02alt: Yohan Belmin 
 thumbgallery001: "/assets/img/yohan-belmin/thumb/true-drama-001.jpg"
-thumbgallery01: "/assets/img/gallery/thumb/true-drama-01.jpg"
+thumbgallery01: "/assets/img/yohan-belmin/thumb/true-drama-01.jpg"
 thumbgallery03: "/assets/img/gallery/thumb/true-drama-03.jpg"
 thumbgallery04: "/assets/img/gallery/thumb/true-drama-04.jpg"
 thumbgallery05: "/assets/img/gallery/thumb/true-drama-05.jpg"
@@ -104,7 +104,7 @@ thumbgallery20: "/assets/img/gallery/thumb/true-drama-20.jpg"
 thumbgallery21: "/assets/img/gallery/thumb/true-drama-21.jpg"
 thumbgallery22: "/assets/img/gallery/thumb/true-drama-22.jpg"
 thumbgallery23: "/assets/img/gallery/thumb/true-drama-23.jpg"
-thumbgallery02: "/assets/img/gallery/thumb/true-drama-02.jpg"
+thumbgallery02: "/assets/img/yohan-belmin/thumb/true-drama-02.jpg"
 
 layout: actor
 ---
