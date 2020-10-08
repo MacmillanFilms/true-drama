@@ -15,9 +15,9 @@ g001alt: Liana Wright Mark
 gallery01: "/assets/img/liana-wright-mark/true-drama-02.jpg"
 g01dsc: Liana Wright Mark  
 g01alt: Liana Wright Mark  
-gallery02: "/assets/img/gallery/true-drama-03.jpg"
-g02dsc: attempts escape from the Slashers nest
-g02alt: Alanah Rafferty 
+gallery02: "/assets/img/liana-wright-mark/true-drama-03.jpg"
+g02dsc: Liana Wright Mark
+g02alt: Liana Wright Mark 
 gallery03: "/assets/img/gallery/true-drama-04.jpg"
 g03dsc: center stage in True Drama 
 g03alt: James Thomas
@@ -83,7 +83,7 @@ g23dsc: Driving up to the Greenwich mansion modeled after the Château de Malmai
 g23alt: Jose Ramos
 thumbgallery001: "/assets/img/liana-wright-mark/thumb/true-drama-01.jpg"
 thumbgallery01: "/assets/img/liana-wright-mark/thumb/true-drama-02.jpg"
-thumbgallery02: "/assets/img/gallery/thumb/true-drama-03.jpg"
+thumbgallery02: "/assets/img/liana-wright-mark/thumb/true-drama-03.jpg"
 thumbgallery03: "/assets/img/gallery/thumb/true-drama-04.jpg"
 thumbgallery04: "/assets/img/gallery/thumb/true-drama-05.jpg"
 thumbgallery05: "/assets/img/gallery/thumb/true-drama-06.jpg"
