@@ -14,7 +14,7 @@ g001dsc: set photo in True Drama
 g001alt: Yohan Belmin 
 gallery01: "/assets/img/yohan-belmin/true-drama-01.jpg"
 g01dsc: set photo in True Drama  
-g01alt:Yohan Belmin   
+g01alt: Yohan Belmin   
 gallery03: "/assets/img/gallery/true-drama-03.jpg"
 g03dsc: attempts escape from the Slashers nest
 g03alt: Alanah Rafferty 
