@@ -10,8 +10,8 @@ aside: 'Strange Bacchic disturbances in the woods protesting a local horror movi
 
 youtube: "fz2SIyeKMIg"
 gallery001: "/assets/img/gallery/true-drama-001.jpg"
-g001dsc: Ksenia Bychenkova
-g001alt: Ksenia Bychenkova 
+g001dsc: Anastasia Li
+g001alt: Anastasia Li
 gallery01: "/assets/img/gallery/true-drama-01.jpg"
 g01dsc: offering handcuffs modeling a new kind of policing
 g01alt: Tatiana Galliher 
