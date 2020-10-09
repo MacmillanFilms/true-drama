@@ -1,6 +1,6 @@
 ---
 title: Marvic Pascual
-banner: "/assets/img/hero.jpg"
+banner: "/assets/img/scott-kozel/scott-kozel-hero.jpg"
 id: marvic-pascual
 quote: 
 article: >
