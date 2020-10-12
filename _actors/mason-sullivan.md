@@ -12,15 +12,15 @@ youtube: "fz2SIyeKMIg"
 gallery001: "/assets/img/mason-sullivan/true-drama-01.jpg"
 g001dsc: Mason Sullivan
 g001alt: Mason Sullivan
-gallery01: "/assets/img/gallery/true-drama-02.jpg"
+gallery01: "/assets/img/mason-sullivan/true-drama-02.jpg"
 g01dsc: Mason Sullivan  
 g01alt: Mason Sullivan 
-gallery02: "/assets/img/gallery/true-drama-03.jpg"
-g02dsc: attempts escape from the Slashers nest
-g02alt: Alanah Rafferty 
-gallery03: "/assets/img/gallery/true-drama-04.jpg"
-g03dsc: center stage in True Drama 
-g03alt: James Thomas
+gallery02: "/assets/img/mason-sullivan/true-drama-03.jpg"
+g02dsc: Mason Sullivan
+g02alt: Mason Sullivan 
+gallery03: "/assets/img/mason-sullivan/true-drama-04.jpg"
+g03dsc: Mason Sullivan
+g03alt: Mason Sullivan
 gallery04: "/assets/img/gallery/true-drama-05.jpg"
 g04dsc: deep underground in the private mausoleum
 g04alt: Tatiana Galliher  
@@ -82,9 +82,9 @@ gallery23: "/assets/img/gallery/true-drama-24.jpg"
 g23dsc: Driving up to the Greenwich mansion modeled after the Château de Malmaison in French
 g23alt: Jose Ramos
 thumbgallery001: "/assets/img/mason-sullivan/thumb/true-drama-01.jpg"
-thumbgallery01: "/assets/img/gallery/thumb/true-drama-02.jpg"
-thumbgallery02: "/assets/img/gallery/thumb/true-drama-03.jpg"
-thumbgallery03: "/assets/img/gallery/thumb/true-drama-04.jpg"
+thumbgallery01: "/assets/img/mason-sullivan/thumb/true-drama-02.jpg"
+thumbgallery02: "/assets/img/mason-sullivan/thumb/true-drama-03.jpg"
+thumbgallery03: "/assets/img/mason-sullivan/thumb/true-drama-04.jpg"
 thumbgallery04: "/assets/img/gallery/thumb/true-drama-05.jpg"
 thumbgallery05: "/assets/img/gallery/thumb/true-drama-06.jpg"
 thumbgallery06: "/assets/img/gallery/thumb/true-drama-07.jpg"
