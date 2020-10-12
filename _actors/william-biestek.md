@@ -9,30 +9,30 @@ article: >
 aside: 'Strange Bacchic disturbances in the woods protesting a local horror movie prompt a police investigation. A shadowy figure emerges.  Calling himself the God of Drama, he believes that he can achieve the seemingly impossible goal of returning drama to its original purpose – of preparing citizens for leadership in democracy. As the horror movie spirals out of control, and the Bacchae are consumed in violence - can officer Ailish Walsh discern the truth before a gruesome Greek drama unfolds? <br><br> Director James Thomas creates a Greek tragedy for our time. A horror story that looks at the original role of drama – as the companion invention of democracy – to shed light on how modern media is still working in our lives, in hidden ways, to rip us apart. True Drama is an alarm – a rare moment of clarity – a terrifying jolt - and an invitation to enjoy the true transcendental power of drama to help us envision a better Democracy. '
 
 youtube: "fz2SIyeKMIg"
-gallery001: "/assets/img/gallery/true-drama-01.jpg"
-g001dsc: offering handcuffs modeling a new kind of policing
-g001alt: Tatiana Galliher 
-gallery01: "/assets/img/gallery/true-drama-02.jpg"
-g01dsc: jumping fire in a secret ritual  
-g01alt: Morgan Marcum  
-gallery02: "/assets/img/gallery/true-drama-03.jpg"
-g02dsc: attempts escape from the Slashers nest
-g02alt: Alanah Rafferty 
-gallery03: "/assets/img/gallery/true-drama-04.jpg"
-g03dsc: center stage in True Drama 
-g03alt: James Thomas
-gallery04: "/assets/img/gallery/true-drama-05.jpg"
-g04dsc: deep underground in the private mausoleum
-g04alt: Tatiana Galliher  
-gallery05: "/assets/img/gallery/true-drama-06.jpg"
-g05dsc:  Driving up to the Greenwich mansion modeled after the Château de Malmaison in French 
-g05alt: Tatiana Galliher  
-gallery06: "/assets/img/gallery/true-drama-07.jpg"
-g06dsc:  Officer Walsh approached the wealth Greenwich patron Mrs. Benedict
-g06alt: Tatiana Galliher  
-gallery07: "/assets/img/gallery/true-drama-08.jpg"
-g07dsc:  a close-up of the new terrifying slasher mask with it's fish-like gaping mouth
-g07alt: AYohan Belmin
+gallery001: "/assets/img/william-biestek/true-drama-01.jpg"
+g001dsc: William Biestek
+g001alt: William Biestek
+gallery01: "/assets/img/william-biestek/true-drama-02.jpg"
+g01dsc: William Biestek  
+g01alt: William Biestek
+gallery02: "/assets/img/william-biestek/true-drama-03.jpg"
+g02dsc: William Biestek
+g02alt: William Biestek
+gallery03: "/assets/img/william-biestek/true-drama-04.jpg"
+g03dsc: William Biestek 
+g03alt: William Biestek
+gallery04: "/assets/img/william-biestek/true-drama-05.jpg"
+g04dsc: William Biestek
+g04alt: William Biestek  
+gallery05: "/assets/img/william-biestek/true-drama-06.jpg"
+g05dsc:  William Biestek
+g05alt: William Biestek
+gallery06: "/assets/img/william-biestek/true-drama-07.jpg"
+g06dsc:  William Biestek
+g06alt: William Biestek  
+gallery07: "/assets/img/william-biestek/true-drama-08.jpg"
+g07dsc:  William Biestek
+g07alt: William Biestek
 gallery08: "/assets/img/gallery/true-drama-09.jpg"
 g08dsc: showing the climactic Exodus of the drama  
 g08alt: James Thomas
@@ -81,14 +81,14 @@ g22alt: Jose Ramos
 gallery23: "/assets/img/gallery/true-drama-24.jpg"
 g23dsc: Driving up to the Greenwich mansion modeled after the Château de Malmaison in French
 g23alt: Jose Ramos
-thumbgallery001: "/assets/img/gallery/thumb/true-drama-01.jpg"
-thumbgallery01: "/assets/img/gallery/thumb/true-drama-02.jpg"
-thumbgallery02: "/assets/img/gallery/thumb/true-drama-03.jpg"
-thumbgallery03: "/assets/img/gallery/thumb/true-drama-04.jpg"
-thumbgallery04: "/assets/img/gallery/thumb/true-drama-05.jpg"
-thumbgallery05: "/assets/img/gallery/thumb/true-drama-06.jpg"
-thumbgallery06: "/assets/img/gallery/thumb/true-drama-07.jpg"
-thumbgallery07: "/assets/img/gallery/thumb/true-drama-08.jpg"
+thumbgallery001: "/assets/img/william-biestek/thumb/true-drama-01.jpg"
+thumbgallery01: "/assets/img/william-biestek/thumb/true-drama-02.jpg"
+thumbgallery02: "/assets/img/william-biestek/thumb/true-drama-03.jpg"
+thumbgallery03: "/assets/img/william-biestek/thumb/true-drama-04.jpg"
+thumbgallery04: "/assets/img/william-biestek/thumb/true-drama-05.jpg"
+thumbgallery05: "/assets/img/william-biestek/thumb/true-drama-06.jpg"
+thumbgallery06: "/assets/img/william-biestek/thumb/true-drama-07.jpg"
+thumbgallery07: "/assets/img/william-biestek/thumb/true-drama-08.jpg"
 thumbgallery08: "/assets/img/gallery/thumb/true-drama-09.jpg"
 thumbgallery09: "/assets/img/gallery/thumb/true-drama-10.jpg"
 thumbgallery10: "/assets/img/gallery/thumb/true-drama-11.jpg"
