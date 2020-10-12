@@ -30,31 +30,31 @@ g05alt: Katherine Galanova
 gallery06: "/assets/img/katherine-galanova/true-drama-06.jpg"
 g06dsc:  photographed during the filming of True Drama 
 g06alt: Katherine Galanova  
-gallery07: "/assets/img/katherine-galanova/true-drama-07.jpg"
+gallery07: "/assets/img/gallery/true-drama-07.jpg"
 g07dsc: photographed during the filming of True Drama 
 g07alt: Katherine Galanova  
-gallery08: "/assets/img/katherine-galanova/true-drama-08.jpg"
+gallery08: "/assets/img/gallery/true-drama-08.jpg"
 g08dsc:  photographed during the filming of True Drama 
 g08alt: Katherine Galanova
-gallery09: "/assets/img/katherine-galanova/true-drama-09.jpg"
+gallery09: "/assets/img/gallery/true-drama-09.jpg"
 g09dsc: photographed during the filming of True Drama   
 g09alt: Katherine Galanova
-gallery10: "/assets/img/katherine-galanova/true-drama-10.jpg"
+gallery10: "/assets/img/gallery/true-drama-10.jpg"
 g10dsc:  photographed during the filming of True Drama   
 g10alt: Katherine Galanova  
-gallery11: "/assets/img/katherine-galanova/true-drama-11.jpg"
+gallery11: "/assets/img/gallery/true-drama-11.jpg"
 g11dsc:  photographed during the filming of True Drama 
 g11alt: Katherine Galanova
-gallery12: "/assets/img/katherine-galanova/true-drama-12.jpg"
+gallery12: "/assets/img/gallery/true-drama-12.jpg"
 g12dsc:  photographed during the filming of True Drama
 g12alt: Katherine Galanova 
-gallery13: "/assets/img/katherine-galanova/true-drama-13.jpg"
+gallery13: "/assets/img/gallery/true-drama-13.jpg"
 g13dsc:  photographed during the filming of True Drama    
 g13alt: Katherine Galanova 
-gallery14: "/assets/img/katherine-galanova/true-drama-14.jpg"
+gallery14: "/assets/img/gallery/true-drama-14.jpg"
 g14dsc:  photographed during the filming of True Drama   
 g14alt: Katherine Galanova 
-gallery15: "/assets/img/katherine-galanova/true-drama-15.jpg"
+gallery15: "/assets/img/gallery/true-drama-15.jpg"
 g15dsc:  photographed during the filming of True Drama   
 g15alt: Katherine Galanova
 gallery16: "/assets/img/gallery/true-drama-16.jpg"
@@ -91,15 +91,15 @@ thumbgallery03: "/assets/img/katherine-galanova/thumb/true-drama-03.jpg"
 thumbgallery04: "/assets/img/katherine-galanova/thumb/true-drama-04.jpg"
 thumbgallery05: "/assets/img/katherine-galanova/thumb/true-drama-05.jpg"
 thumbgallery06: "/assets/img/katherine-galanova/thumb/true-drama-06.jpg"
-thumbgallery07: "/assets/img/katherine-galanova/thumb/true-drama-07.jpg"
-thumbgallery08: "/assets/img/katherine-galanova/thumb/true-drama-08.jpg"
-thumbgallery09: "/assets/img/katherine-galanova/thumb/true-drama-09.jpg"
-thumbgallery10: "/assets/img/katherine-galanova/thumb/true-drama-10.jpg"
-thumbgallery11: "/assets/img/katherine-galanova/thumb/true-drama-11.jpg"
-thumbgallery12: "/assets/img/katherine-galanova/thumb/true-drama-12.jpg"
-thumbgallery13: "/assets/img/katherine-galanova/thumb/true-drama-13.jpg"
-thumbgallery14: "/assets/img/katherine-galanova/thumb/true-drama-14.jpg"
-thumbgallery15: "/assets/img/katherine-galanova/thumb/true-drama-15.jpg"
+thumbgallery07: "/assets/img/gallery/thumb/true-drama-07.jpg"
+thumbgallery08: "/assets/img/gallery/thumb/true-drama-08.jpg"
+thumbgallery09: "/assets/img/gallery/thumb/true-drama-09.jpg"
+thumbgallery10: "/assets/img/gallery/thumb/true-drama-10.jpg"
+thumbgallery11: "/assets/img/gallery/thumb/true-drama-11.jpg"
+thumbgallery12: "/assets/img/gallery/thumb/true-drama-12.jpg"
+thumbgallery13: "/assets/img/gallery/thumb/true-drama-13.jpg"
+thumbgallery14: "/assets/img/gallery/thumb/true-drama-14.jpg"
+thumbgallery15: "/assets/img/gallery/thumb/true-drama-15.jpg"
 thumbgallery16: "/assets/img/gallery/thumb/true-drama-16.jpg"
 thumbgallery17: "/assets/img/gallery/thumb/true-drama-17.jpg"
 thumbgallery18: "/assets/img/gallery/thumb/true-drama-18.jpg"
