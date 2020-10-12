@@ -15,33 +15,33 @@ g001alt: Katka Krajcovic
 gallery01: "/assets/img/katka-krajcovic/true-drama-01.jpg"
 g01dsc: photographed during the filming of True Drama  
 g01alt: Katka Krajcovic  
-gallery03: "/assets/img/gallery/true-drama-03.jpg"
+gallery03: "/assets/img/katka-krajcovic/true-drama-03.jpg"
 g03dsc: photographed during the filming of True Drama
 g03alt: Katka Krajcovic 
-gallery04: "/assets/img/gallery/true-drama-04.jpg"
-g04dsc: center stage in True Drama 
-g04alt: James Thomas
-gallery05: "/assets/img/gallery/true-drama-05.jpg"
-g05dsc: deep underground in the private mausoleum
-g05alt: Tatiana Galliher  
-gallery06: "/assets/img/gallery/true-drama-06.jpg"
-g06dsc:  Driving up to the Greenwich mansion modeled after the Château de Malmaison in French 
-g06alt: Tatiana Galliher  
-gallery07: "/assets/img/gallery/true-drama-07.jpg"
-g07dsc:  Officer Walsh approached the wealth Greenwich patron Mrs. Benedict
-g07alt: Tatiana Galliher  
-gallery08: "/assets/img/gallery/true-drama-08.jpg"
-g08dsc:  a close-up of the new terrifying slasher mask with it's fish-like gaping mouth
-g08alt: AYohan Belmin
-gallery09: "/assets/img/gallery/true-drama-09.jpg"
-g09dsc: showing the climactic Exodus of the drama  
-g09alt: James Thomas
-gallery10: "/assets/img/gallery/true-drama-10.jpg"
-g10dsc:  Officer Walsh finds Dionysus in the rafters of the theater at the abandoned sanitarium  
-g10alt: Tatiana Galliher  
-gallery11: "/assets/img/gallery/true-drama-11.jpg"
-g11dsc:  Dionysus looks down from the rigging of the theater at the abandoned sanitarium  
-g11alt: James Thomas
+gallery04: "/assets/img/katka-krajcovic/true-drama-04.jpg"
+g04dsc: photographed during the filming of True Drama 
+g04alt: Katka Krajcovic 
+gallery05: "/assets/img/katka-krajcovic/true-drama-05.jpg"
+g05dsc: photographed during the filming of True Drama
+g05alt: Katka Krajcovic   
+gallery06: "/assets/img/katka-krajcovic/true-drama-06.jpg"
+g06dsc:  photographed during the filming of True Drama
+g06alt: Katka Krajcovic   
+gallery07: "/assets/img/katka-krajcovic/true-drama-07.jpg"
+g07dsc:  photographed during the filming of True Drama
+g07alt: Katka Krajcovic   
+gallery08: "/assets/img/katka-krajcovic/true-drama-08.jpg"
+g08dsc:  photographed during the filming of True Drama
+g08alt: Katka Krajcovic 
+gallery09: "/assets/img/katka-krajcovic/true-drama-09.jpg"
+g09dsc: photographed during the filming of True Drama
+g09alt: Katka Krajcovic 
+gallery10: "/assets/img/katka-krajcovic/true-drama-10.jpg"
+g10dsc:  Ophotographed during the filming of True Drama
+g10alt: Katka Krajcovic  
+gallery11: "/assets/img/katka-krajcovic/true-drama-11.jpg"
+g11dsc:  photographed during the filming of True Drama
+g11alt: Katka Krajcovic 
 gallery12: "/assets/img/gallery/true-drama-12.jpg"
 g12dsc:  Sara's POV from inside a coffin, looking up at the terrifying masked slasher 
 g12alt: Scott Kozel 
@@ -84,14 +84,14 @@ g02alt: Katka Krajcovic
 thumbgallery001: "/assets/img/katka-krajcovic/thumb/true-drama-001.jpg"
 
 thumbgallery01: "/assets/img/katka-krajcovic/thumb/true-drama-01.jpg"
-thumbgallery03: "/assets/img/gallery/thumb/true-drama-03.jpg"
-thumbgallery04: "/assets/img/gallery/thumb/true-drama-04.jpg"
-thumbgallery05: "/assets/img/gallery/thumb/true-drama-05.jpg"
-thumbgallery06: "/assets/img/gallery/thumb/true-drama-06.jpg"
-thumbgallery07: "/assets/img/gallery/thumb/true-drama-07.jpg"
-thumbgallery08: "/assets/img/gallery/thumb/true-drama-08.jpg"
-thumbgallery09: "/assets/img/gallery/thumb/true-drama-09.jpg"
-thumbgallery10: "/assets/img/gallery/thumb/true-drama-10.jpg"
+thumbgallery03: "/assets/img/katka-krajcovic/thumb/true-drama-03.jpg"
+thumbgallery04: "/assets/img/katka-krajcovic/thumb/true-drama-04.jpg"
+thumbgallery05: "/assets/img/katka-krajcovic/thumb/true-drama-05.jpg"
+thumbgallery06: "/assets/img/katka-krajcovic/thumb/true-drama-06.jpg"
+thumbgallery07: "/assets/img/katka-krajcovic/thumb/true-drama-07.jpg"
+thumbgallery08: "/assets/img/katka-krajcovic/thumb/true-drama-08.jpg"
+thumbgallery09: "/assets/img/katka-krajcovic/thumb/true-drama-09.jpg"
+thumbgallery10: "/assets/img/katka-krajcovic/thumb/true-drama-10.jpg"
 thumbgallery11: "/assets/img/gallery/thumb/true-drama-11.jpg"
 thumbgallery12: "/assets/img/gallery/thumb/true-drama-12.jpg"
 thumbgallery13: "/assets/img/gallery/thumb/true-drama-13.jpg"
