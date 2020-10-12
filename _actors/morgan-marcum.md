@@ -12,13 +12,13 @@ youtube: "fz2SIyeKMIg"
 gallery001: "/assets/img/gallery/true-drama-02.jpg"
 g001dsc: jumping fire in a secret ritual 
 g001alt: Morgan Marcum
-gallery01: "/assets/img/gallery/true-drama-01.jpg"
+gallery01: "/assets/img/morgan-marcum/true-drama-01.jpg"
 g01dsc: offering handcuffs modeling a new kind of policing 
 g01alt:   Tatiana Galliher 
-gallery02: "/assets/img/gallery/true-drama-03.jpg"
+gallery02: "/assets/img/morgan-marcum/true-drama-03.jpg"
 g02dsc: attempts escape from the Slashers nest
 g02alt: Alanah Rafferty 
-gallery03: "/assets/img/gallery/true-drama-04.jpg"
+gallery03: "/assets/img/morgan-marcum/true-drama-04.jpg"
 g03dsc: center stage in True Drama 
 g03alt: James Thomas
 gallery04: "/assets/img/gallery/true-drama-05.jpg"
@@ -82,9 +82,9 @@ gallery23: "/assets/img/gallery/true-drama-24.jpg"
 g23dsc: Driving up to the Greenwich mansion modeled after the Château de Malmaison in French
 g23alt: Jose Ramos
 thumbgallery001: "/assets/img/gallery/thumb/true-drama-02.jpg"
-thumbgallery01: "/assets/img/gallery/thumb/true-drama-01.jpg"
-thumbgallery02: "/assets/img/gallery/thumb/true-drama-03.jpg"
-thumbgallery03: "/assets/img/gallery/thumb/true-drama-04.jpg"
+thumbgallery01: "/assets/img/morgan-marcum/thumb/true-drama-01.jpg"
+thumbgallery02: "/assets/img/morgan-marcum/thumb/true-drama-03.jpg"
+thumbgallery03: "/assets/img/morgan-marcum/thumb/true-drama-04.jpg"
 thumbgallery04: "/assets/img/gallery/thumb/true-drama-05.jpg"
 thumbgallery05: "/assets/img/gallery/thumb/true-drama-06.jpg"
 thumbgallery06: "/assets/img/gallery/thumb/true-drama-07.jpg"
