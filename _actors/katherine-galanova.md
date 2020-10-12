@@ -48,15 +48,15 @@ g11alt: Katherine Galanova
 gallery12: "/assets/img/katherine-galanova/true-drama-12.jpg"
 g12dsc:  photographed during the filming of True Drama
 g12alt: Katherine Galanova 
-gallery13: "/assets/img/gallery/true-drama-13.jpg"
-g13dsc:  A tracking shot of the slasher taking his female captive to his underground lair 
-g13alt: Scott Kozel 
-gallery14: "/assets/img/gallery/true-drama-14.jpg"
-g14dsc:  Mr. B directs from the control room as Sara is chained to a rack before being tortured 
-g14alt: Aidan Laliberte  
-gallery15: "/assets/img/gallery/true-drama-15.jpg"
-g15dsc:  Sara begs through her prison bars of the slasher's lair
-g15alt: Alanah Rafferty
+gallery13: "/assets/img/katherine-galanova/true-drama-13.jpg"
+g13dsc:  photographed during the filming of True Drama    
+g13alt: Katherine Galanova 
+gallery14: "/assets/img/katherine-galanova/true-drama-14.jpg"
+g14dsc:  photographed during the filming of True Drama   
+g14alt: Katherine Galanova 
+gallery15: "/assets/img/katherine-galanova/true-drama-15.jpg"
+g15dsc:  photographed during the filming of True Drama   
+g15alt: Katherine Galanova
 gallery16: "/assets/img/gallery/true-drama-16.jpg"
 g16dsc:  Detective Oliva and Officer Walsh drive to meet the writer of the slasher script 
 g16alt: Jose Ramos
@@ -97,9 +97,9 @@ thumbgallery09: "/assets/img/katherine-galanova/thumb/true-drama-09.jpg"
 thumbgallery10: "/assets/img/katherine-galanova/thumb/true-drama-10.jpg"
 thumbgallery11: "/assets/img/katherine-galanova/thumb/true-drama-11.jpg"
 thumbgallery12: "/assets/img/katherine-galanova/thumb/true-drama-12.jpg"
-thumbgallery13: "/assets/img/gallery/thumb/true-drama-13.jpg"
-thumbgallery14: "/assets/img/gallery/thumb/true-drama-14.jpg"
-thumbgallery15: "/assets/img/gallery/thumb/true-drama-15.jpg"
+thumbgallery13: "/assets/img/katherine-galanova/thumb/true-drama-13.jpg"
+thumbgallery14: "/assets/img/katherine-galanova/thumb/true-drama-14.jpg"
+thumbgallery15: "/assets/img/katherine-galanova/thumb/true-drama-15.jpg"
 thumbgallery16: "/assets/img/gallery/thumb/true-drama-16.jpg"
 thumbgallery17: "/assets/img/gallery/thumb/true-drama-17.jpg"
 thumbgallery18: "/assets/img/gallery/thumb/true-drama-18.jpg"
