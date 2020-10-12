@@ -18,18 +18,18 @@ g01alt: Liana Wright Mark
 gallery02: "/assets/img/liana-wright-mark/true-drama-03.jpg"
 g02dsc: Liana Wright Mark
 g02alt: Liana Wright Mark 
-gallery03: "/assets/img/gallery/true-drama-04.jpg"
-g03dsc: center stage in True Drama 
-g03alt: James Thomas
-gallery04: "/assets/img/gallery/true-drama-05.jpg"
-g04dsc: deep underground in the private mausoleum
-g04alt: Tatiana Galliher  
-gallery05: "/assets/img/gallery/true-drama-06.jpg"
-g05dsc:  Driving up to the Greenwich mansion modeled after the Château de Malmaison in French 
-g05alt: Tatiana Galliher  
-gallery06: "/assets/img/gallery/true-drama-07.jpg"
-g06dsc:  Officer Walsh approached the wealth Greenwich patron Mrs. Benedict
-g06alt: Tatiana Galliher  
+gallery03: "/assets/img/liana-wright-mark/true-drama-04.jpg"
+g03dsc:  Liana Wright Mark
+g03alt:  Liana Wright Mark
+gallery04: "/assets/img/liana-wright-mark/true-drama-05.jpg"
+g04dsc:  Liana Wright Mark
+g04alt:  Liana Wright Mark  
+gallery05: "/assets/img/liana-wright-mark/true-drama-06.jpg"
+g05dsc:   Liana Wright Mark
+g05alt:  Liana Wright Mark  
+gallery06: "/assets/img/liana-wright-mark/true-drama-07.jpg"
+g06dsc:  Liana Wright Mark
+g06alt:  Liana Wright Mark  
 gallery07: "/assets/img/gallery/true-drama-08.jpg"
 g07dsc:  a close-up of the new terrifying slasher mask with it's fish-like gaping mouth
 g07alt: AYohan Belmin
@@ -84,10 +84,10 @@ g23alt: Jose Ramos
 thumbgallery001: "/assets/img/liana-wright-mark/thumb/true-drama-01.jpg"
 thumbgallery01: "/assets/img/liana-wright-mark/thumb/true-drama-02.jpg"
 thumbgallery02: "/assets/img/liana-wright-mark/thumb/true-drama-03.jpg"
-thumbgallery03: "/assets/img/gallery/thumb/true-drama-04.jpg"
-thumbgallery04: "/assets/img/gallery/thumb/true-drama-05.jpg"
-thumbgallery05: "/assets/img/gallery/thumb/true-drama-06.jpg"
-thumbgallery06: "/assets/img/gallery/thumb/true-drama-07.jpg"
+thumbgallery03: "/assets/img/liana-wright-mark/thumb/true-drama-04.jpg"
+thumbgallery04: "/assets/img/liana-wright-mark/thumb/true-drama-05.jpg"
+thumbgallery05: "/assets/img/liana-wright-mark/thumb/true-drama-06.jpg"
+thumbgallery06: "/assets/img/liana-wright-mark/thumb/true-drama-07.jpg"
 thumbgallery07: "/assets/img/gallery/thumb/true-drama-08.jpg"
 thumbgallery08: "/assets/img/gallery/thumb/true-drama-09.jpg"
 thumbgallery09: "/assets/img/gallery/thumb/true-drama-10.jpg"
