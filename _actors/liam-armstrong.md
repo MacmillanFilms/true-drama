@@ -9,12 +9,12 @@ article: >
 aside: 'Strange Bacchic disturbances in the woods protesting a local horror movie prompt a police investigation. A shadowy figure emerges.  Calling himself the God of Drama, he believes that he can achieve the seemingly impossible goal of returning drama to its original purpose – of preparing citizens for leadership in democracy. As the horror movie spirals out of control, and the Bacchae are consumed in violence - can officer Ailish Walsh discern the truth before a gruesome Greek drama unfolds? <br><br> Director James Thomas creates a Greek tragedy for our time. A horror story that looks at the original role of drama – as the companion invention of democracy – to shed light on how modern media is still working in our lives, in hidden ways, to rip us apart. True Drama is an alarm – a rare moment of clarity – a terrifying jolt - and an invitation to enjoy the true transcendental power of drama to help us envision a better Democracy. '
 
 youtube: "fz2SIyeKMIg"
-gallery001: "/assets/img/liam-armstrong/true-drama-01.jpg"
+gallery001: "/assets/img/liam-armstrong/true-drama-02.jpg"
 g001dsc: Liam Armstrong
 g001alt: Liam Armstrong
-gallery01: "/assets/img/gallery/true-drama-02.jpg"
-g01dsc: jumping fire in a secret ritual  
-g01alt: Morgan Marcum  
+gallery01: "/assets/img/liam-armstrong/true-drama-01.jpg"
+g01dsc: Liam Armstrong  
+g01alt: Liam Armstrong  
 gallery02: "/assets/img/gallery/true-drama-03.jpg"
 g02dsc: attempts escape from the Slashers nest
 g02alt: Alanah Rafferty 
@@ -81,8 +81,8 @@ g22alt: Jose Ramos
 gallery23: "/assets/img/gallery/true-drama-24.jpg"
 g23dsc: Driving up to the Greenwich mansion modeled after the Château de Malmaison in French
 g23alt: Jose Ramos
-thumbgallery001: "/assets/img/liam-armstrong/thumb/true-drama-01.jpg"
-thumbgallery01: "/assets/img/gallery/thumb/true-drama-02.jpg"
+thumbgallery001: "/assets/img/liam-armstrong/thumb/true-drama-02.jpg"
+thumbgallery01: "/assets/img/liam-armstrong/thumb/true-drama-01.jpg"
 thumbgallery02: "/assets/img/gallery/thumb/true-drama-03.jpg"
 thumbgallery03: "/assets/img/gallery/thumb/true-drama-04.jpg"
 thumbgallery04: "/assets/img/gallery/thumb/true-drama-05.jpg"
