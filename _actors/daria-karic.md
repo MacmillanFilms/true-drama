@@ -1,5 +1,5 @@
 ---
-title: Arianna Wellmoney
+title: Daria Karic
 banner: "/assets/img/daria-karic/daria-karic-hero.jpg"
 id: daria-karic
 quote: 
