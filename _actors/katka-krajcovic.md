@@ -92,7 +92,7 @@ thumbgallery07: "/assets/img/katka-krajcovic/thumb/true-drama-07.jpg"
 thumbgallery08: "/assets/img/katka-krajcovic/thumb/true-drama-08.jpg"
 thumbgallery09: "/assets/img/katka-krajcovic/thumb/true-drama-09.jpg"
 thumbgallery10: "/assets/img/katka-krajcovic/thumb/true-drama-10.jpg"
-thumbgallery11: "/assets/img/gallery/thumb/true-drama-11.jpg"
+thumbgallery11: "/assets/img/katka-krajcovic/thumb/true-drama-11.jpg"
 thumbgallery12: "/assets/img/gallery/thumb/true-drama-12.jpg"
 thumbgallery13: "/assets/img/gallery/thumb/true-drama-13.jpg"
 thumbgallery14: "/assets/img/gallery/thumb/true-drama-14.jpg"
@@ -105,7 +105,7 @@ thumbgallery20: "/assets/img/gallery/thumb/true-drama-20.jpg"
 thumbgallery21: "/assets/img/gallery/thumb/true-drama-21.jpg"
 thumbgallery22: "/assets/img/gallery/thumb/true-drama-22.jpg"
 thumbgallery23: "/assets/img/gallery/thumb/true-drama-23.jpg"
-thumbgallery02: "/assets/img/gallery/katka-krajcovic/true-drama-02.jpg"
+thumbgallery02: "/assets/img/katka-krajcovic/thumb/true-drama-02.jpg"
 
 layout: actor
 ---
