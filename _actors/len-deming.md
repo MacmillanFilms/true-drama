@@ -30,12 +30,12 @@ g05alt: Len Deming
 gallery06: "/assets/img/len-deming/true-drama-07.jpg"
 g06dsc:  Len Deming was the Police Chief in True Drama
 g06alt: Len Deming
-gallery07: "/assets/img/gallery/true-drama-08.jpg"
-g07dsc:  a close-up of the new terrifying slasher mask with it's fish-like gaping mouth
-g07alt: AYohan Belmin
-gallery08: "/assets/img/gallery/true-drama-09.jpg"
-g08dsc: showing the climactic Exodus of the drama  
-g08alt: James Thomas
+gallery07: "/assets/img/len-deming/true-drama-08.jpg"
+g07dsc:  Len Deming was the Police Chief in True Drama
+g07alt: Len Deming
+gallery08: "/assets/img/len-deming/true-drama-09.jpg"
+g08dsc: Len Deming was the Police Chief in True Drama  
+g08alt: Len Deming
 gallery09: "/assets/img/gallery/true-drama-10.jpg"
 g09dsc:  Officer Walsh finds Dionysus in the rafters of the theater at the abandoned sanitarium  
 g09alt: Tatiana Galliher  
@@ -88,8 +88,8 @@ thumbgallery03: "/assets/img/len-deming/thumb/true-drama-04.jpg"
 thumbgallery04: "/assets/img/len-deming/thumb/true-drama-05.jpg"
 thumbgallery05: "/assets/img/len-deming/thumb/true-drama-06.jpg"
 thumbgallery06: "/assets/img/len-deming/thumb/true-drama-07.jpg"
-thumbgallery07: "/assets/img/gallery/thumb/true-drama-08.jpg"
-thumbgallery08: "/assets/img/gallery/thumb/true-drama-09.jpg"
+thumbgallery07: "/assets/img/len-deming/thumb/true-drama-08.jpg"
+thumbgallery08: "/assets/img/len-deming/thumb/true-drama-09.jpg"
 thumbgallery09: "/assets/img/gallery/thumb/true-drama-10.jpg"
 thumbgallery10: "/assets/img/gallery/thumb/true-drama-11.jpg"
 thumbgallery11: "/assets/img/gallery/thumb/true-drama-12.jpg"
