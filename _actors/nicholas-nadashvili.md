@@ -12,21 +12,21 @@ youtube: "fz2SIyeKMIg"
 gallery001: "/assets/img/nicholas-nadashvili/true-drama-01.jpg"
 g001dsc: Nicholas Nadashvili
 g001alt: Nicholas Nadashvili 
-gallery01: "/assets/img/gallery/true-drama-02.jpg"
-g01dsc: jumping fire in a secret ritual  
-g01alt: Morgan Marcum  
-gallery02: "/assets/img/gallery/true-drama-03.jpg"
-g02dsc: attempts escape from the Slashers nest
-g02alt: Alanah Rafferty 
-gallery03: "/assets/img/gallery/true-drama-04.jpg"
-g03dsc: center stage in True Drama 
-g03alt: James Thomas
-gallery04: "/assets/img/gallery/true-drama-05.jpg"
-g04dsc: deep underground in the private mausoleum
-g04alt: Tatiana Galliher  
-gallery05: "/assets/img/gallery/true-drama-06.jpg"
-g05dsc:  Driving up to the Greenwich mansion modeled after the Château de Malmaison in French 
-g05alt: Tatiana Galliher  
+gallery01: "/assets/img/nicholas-nadashvili/true-drama-02.jpg"
+g01dsc: Nicholas Nadashvili  
+g01alt: Nicholas Nadashvili  
+gallery02: "/assets/img/nicholas-nadashvili/true-drama-03.jpg"
+g02dsc: Nicholas Nadashvili
+g02alt: Nicholas Nadashvili
+gallery03: "/assets/img/nicholas-nadashvili/true-drama-04.jpg"
+g03dsc: Nicholas Nadashvili 
+g03alt: Nicholas Nadashvili
+gallery04: "/assets/img/nicholas-nadashvili/true-drama-05.jpg"
+g04dsc: Nicholas Nadashvili
+g04alt: Nicholas Nadashvili  
+gallery05: "/assets/img/nicholas-nadashvili/true-drama-06.jpg"
+g05dsc:  Nicholas Nadashvili
+g05alt: Nicholas Nadashvili 
 gallery06: "/assets/img/gallery/true-drama-07.jpg"
 g06dsc:  Officer Walsh approached the wealth Greenwich patron Mrs. Benedict
 g06alt: Tatiana Galliher  
@@ -82,11 +82,11 @@ gallery23: "/assets/img/gallery/true-drama-24.jpg"
 g23dsc: Driving up to the Greenwich mansion modeled after the Château de Malmaison in French
 g23alt: Jose Ramos
 thumbgallery001: "/assets/img/nicholas-nadashvili/thumb/true-drama-01.jpg"
-thumbgallery01: "/assets/img/gallery/thumb/true-drama-02.jpg"
-thumbgallery02: "/assets/img/gallery/thumb/true-drama-03.jpg"
-thumbgallery03: "/assets/img/gallery/thumb/true-drama-04.jpg"
-thumbgallery04: "/assets/img/gallery/thumb/true-drama-05.jpg"
-thumbgallery05: "/assets/img/gallery/thumb/true-drama-06.jpg"
+thumbgallery01: "/assets/img/nicholas-nadashvili/thumb/true-drama-02.jpg"
+thumbgallery02: "/assets/img/nicholas-nadashvili/thumb/true-drama-03.jpg"
+thumbgallery03: "/assets/img/nicholas-nadashvili/thumb/true-drama-04.jpg"
+thumbgallery04: "/assets/img/nicholas-nadashvili/thumb/true-drama-05.jpg"
+thumbgallery05: "/assets/img/nicholas-nadashvili/thumb/true-drama-06.jpg"
 thumbgallery06: "/assets/img/gallery/thumb/true-drama-07.jpg"
 thumbgallery07: "/assets/img/gallery/thumb/true-drama-08.jpg"
 thumbgallery08: "/assets/img/gallery/thumb/true-drama-09.jpg"
