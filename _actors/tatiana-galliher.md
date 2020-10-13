@@ -78,7 +78,7 @@ g22alt: Katka Krajcovic
 gallery23: "/assets/img/gallery/true-drama-23.jpg"
 g23dsc: Detective Oliva in from of the crime board
 g23alt: Jose Ramos
-gallery02: "/assets/img/gallery/true-drama-02.jpg"
+gallery02: "/assets/img/tatiana-galliher/true-drama-02.jpg"
 g02dsc: Driving up to the Greenwich mansion modeled after the Château de Malmaison in French
 g02alt: Jose Ramos
 thumbgallery001: "/assets/img/tatiana-galliher/thumb/true-drama-001.jpg"
@@ -104,7 +104,7 @@ thumbgallery20: "/assets/img/gallery/thumb/true-drama-20.jpg"
 thumbgallery21: "/assets/img/gallery/thumb/true-drama-21.jpg"
 thumbgallery22: "/assets/img/gallery/thumb/true-drama-22.jpg"
 thumbgallery23: "/assets/img/gallery/thumb/true-drama-23.jpg"
-thumbgallery02: "/assets/img/gallery/thumb/true-drama-02.jpg"
+thumbgallery02: "/assets/img/tatiana-galliher/thumb/true-drama-02.jpg"
 
 layout: actor
 ---
