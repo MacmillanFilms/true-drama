@@ -12,51 +12,51 @@ youtube: "fz2SIyeKMIg"
 gallery001: "/assets/img/tatiana-galliher/true-drama-001.jpg"
 g001dsc: set photo in True Drama
 g001alt: Tatiana Galliher 
-gallery01: "/assets/img/gallery/true-drama-01.jpg"
-g01dsc: jumping fire in a secret ritual  
-g01alt: Morgan Marcum  
-gallery03: "/assets/img/gallery/true-drama-03.jpg"
-g03dsc: attempts escape from the Slashers nest
-g03alt: Alanah Rafferty 
-gallery04: "/assets/img/gallery/true-drama-04.jpg"
-g04dsc: center stage in True Drama 
-g04alt: James Thomas
-gallery05: "/assets/img/gallery/true-drama-05.jpg"
-g05dsc: deep underground in the private mausoleum
-g05alt: Tatiana Galliher  
-gallery06: "/assets/img/gallery/true-drama-06.jpg"
-g06dsc:  Driving up to the Greenwich mansion modeled after the Château de Malmaison in French 
+gallery01: "/assets/img/tatiana-galliher/true-drama-01.jpg"
+g01dsc: set photo in True Drama  
+g01alt: Tatiana Galliher
+gallery03: "/assets/img/tatiana-galliher/true-drama-03.jpg"
+g03dsc: set photo in True Drama
+g03alt: Tatiana Galliher
+gallery04: "/assets/img/tatiana-galliher/true-drama-04.jpg"
+g04dsc: set photo in True Drama 
+g04alt: Tatiana Galliher
+gallery05: "/assets/img/tatiana-galliher/true-drama-05.jpg"
+g05dsc: set photo in True Drama
+g05alt: Tatiana Galliher 
+gallery06: "/assets/img/tatiana-galliher/true-drama-06.jpg"
+g06dsc:  set photo in True Drama
 g06alt: Tatiana Galliher  
-gallery07: "/assets/img/gallery/true-drama-07.jpg"
-g07dsc:  Officer Walsh approached the wealth Greenwich patron Mrs. Benedict
+gallery07: "/assets/img/tatiana-galliher/true-drama-07.jpg"
+g07dsc:  set photo in True Drama
 g07alt: Tatiana Galliher  
-gallery08: "/assets/img/gallery/true-drama-08.jpg"
-g08dsc:  a close-up of the new terrifying slasher mask with it's fish-like gaping mouth
-g08alt: AYohan Belmin
-gallery09: "/assets/img/gallery/true-drama-09.jpg"
-g09dsc: showing the climactic Exodus of the drama  
-g09alt: James Thomas
-gallery10: "/assets/img/gallery/true-drama-10.jpg"
-g10dsc:  Officer Walsh finds Dionysus in the rafters of the theater at the abandoned sanitarium  
+gallery08: "/assets/img/tatiana-galliher/true-drama-08.jpg"
+g08dsc:  set photo in True Drama
+g08alt: Tatiana Galliher
+gallery09: "/assets/img/tatiana-galliher/true-drama-09.jpg"
+g09dsc: set photo in True Drama 
+g09alt: Tatiana Galliher
+gallery10: "/assets/img/tatiana-galliher/true-drama-10.jpg"
+g10dsc:  set photo in True Drama
 g10alt: Tatiana Galliher  
-gallery11: "/assets/img/gallery/true-drama-11.jpg"
-g11dsc:  Dionysus looks down from the rigging of the theater at the abandoned sanitarium  
-g11alt: James Thomas
-gallery12: "/assets/img/gallery/true-drama-12.jpg"
-g12dsc:  Sara's POV from inside a coffin, looking up at the terrifying masked slasher 
-g12alt: Scott Kozel 
-gallery13: "/assets/img/gallery/true-drama-13.jpg"
-g13dsc:  A tracking shot of the slasher taking his female captive to his underground lair 
-g13alt: Scott Kozel 
-gallery14: "/assets/img/gallery/true-drama-14.jpg"
-g14dsc:  Mr. B directs from the control room as Sara is chained to a rack before being tortured 
+gallery11: "/assets/img/tatiana-galliher/true-drama-11.jpg"
+g11dsc:  set photo in True Drama 
+g11alt: Tatiana Galliher
+gallery12: "/assets/img/tatiana-galliher/true-drama-12.jpg"
+g12dsc:  set photo in True Drama 
+g12alt: Tatiana Galliher
+gallery13: "/assets/img/tatiana-galliher/true-drama-13.jpg"
+g13dsc: set photo in True Drama
+g13alt: Tatiana Galliher
+gallery14: "/assets/img/tatiana-galliher/true-drama-14.jpg"
+g14dsc:  set photo in True Drama
 g14alt: Aidan Laliberte  
-gallery15: "/assets/img/gallery/true-drama-15.jpg"
-g15dsc:  Sara begs through her prison bars of the slasher's lair
-g15alt: Alanah Rafferty
-gallery16: "/assets/img/gallery/true-drama-16.jpg"
-g16dsc:  Detective Oliva and Officer Walsh drive to meet the writer of the slasher script 
-g16alt: Jose Ramos
+gallery15: "/assets/img/tatiana-galliher/true-drama-15.jpg"
+g15dsc:  set photo in True Drama
+g15alt: Tatiana Galliher
+gallery16: "/assets/img/tatiana-galliher/true-drama-16.jpg"
+g16dsc:  set photo in True Drama 
+g16alt: Tatiana Galliher
 gallery17: "/assets/img/gallery/true-drama-17.jpg"
 g17dsc:   Officer Walsh sees posters for Greek Dramas in the foyer of the theater at the abandoned sanitarium 
 g17alt: Tatiana Galliher 
@@ -82,21 +82,21 @@ gallery02: "/assets/img/gallery/true-drama-02.jpg"
 g02dsc: Driving up to the Greenwich mansion modeled after the Château de Malmaison in French
 g02alt: Jose Ramos
 thumbgallery001: "/assets/img/tatiana-galliher/thumb/true-drama-001.jpg"
-thumbgallery01: "/assets/img/gallery/thumb/true-drama-01.jpg"
-thumbgallery03: "/assets/img/gallery/thumb/true-drama-03.jpg"
-thumbgallery04: "/assets/img/gallery/thumb/true-drama-04.jpg"
-thumbgallery05: "/assets/img/gallery/thumb/true-drama-05.jpg"
-thumbgallery06: "/assets/img/gallery/thumb/true-drama-06.jpg"
-thumbgallery07: "/assets/img/gallery/thumb/true-drama-07.jpg"
-thumbgallery08: "/assets/img/gallery/thumb/true-drama-08.jpg"
-thumbgallery09: "/assets/img/gallery/thumb/true-drama-09.jpg"
-thumbgallery10: "/assets/img/gallery/thumb/true-drama-10.jpg"
-thumbgallery11: "/assets/img/gallery/thumb/true-drama-11.jpg"
-thumbgallery12: "/assets/img/gallery/thumb/true-drama-12.jpg"
-thumbgallery13: "/assets/img/gallery/thumb/true-drama-13.jpg"
-thumbgallery14: "/assets/img/gallery/thumb/true-drama-14.jpg"
-thumbgallery15: "/assets/img/gallery/thumb/true-drama-15.jpg"
-thumbgallery16: "/assets/img/gallery/thumb/true-drama-16.jpg"
+thumbgallery01: "/assets/img/tatiana-galliher/thumb/true-drama-01.jpg"
+thumbgallery03: "/assets/img/tatiana-galliher/thumb/true-drama-03.jpg"
+thumbgallery04: "/assets/img/tatiana-galliher/thumb/true-drama-04.jpg"
+thumbgallery05: "/assets/img/tatiana-galliher/thumb/true-drama-05.jpg"
+thumbgallery06: "/assets/img/tatiana-galliher/thumb/true-drama-06.jpg"
+thumbgallery07: "/assets/img/tatiana-galliher/thumb/true-drama-07.jpg"
+thumbgallery08: "/assets/img/tatiana-galliher/thumb/true-drama-08.jpg"
+thumbgallery09: "/assets/img/tatiana-galliher/thumb/true-drama-09.jpg"
+thumbgallery10: "/assets/img/tatiana-galliher/thumb/true-drama-10.jpg"
+thumbgallery11: "/assets/img/tatiana-galliher/thumb/true-drama-11.jpg"
+thumbgallery12: "/assets/img/tatiana-galliher/thumb/true-drama-12.jpg"
+thumbgallery13: "/assets/img/tatiana-galliher/thumb/true-drama-13.jpg"
+thumbgallery14: "/assets/img/tatiana-galliher/thumb/true-drama-14.jpg"
+thumbgallery15: "/assets/img/tatiana-galliher/thumb/true-drama-15.jpg"
+thumbgallery16: "/assets/img/tatiana-galliher/thumb/true-drama-16.jpg"
 thumbgallery17: "/assets/img/gallery/thumb/true-drama-17.jpg"
 thumbgallery18: "/assets/img/gallery/thumb/true-drama-18.jpg"
 thumbgallery19: "/assets/img/gallery/thumb/true-drama-19.jpg"
