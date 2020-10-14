@@ -12,9 +12,9 @@ youtube: "fz2SIyeKMIg"
 gallery001: "/assets/img/ksenia-bychenkova/true-drama-001.jpg"
 g001dsc: Anastasia Li
 g001alt: Anastasia Li
-gallery01: "/assets/img/gallery/true-drama-01.jpg"
-g01dsc: offering handcuffs modeling a new kind of policing
-g01alt: Tatiana Galliher 
+gallery01: "/assets/img/ksenia-bychenkova/true-drama-01.jpg"
+g01dsc: Anastasia Li
+g01alt: Anastasia Li
 gallery02: "/assets/img/gallery/true-drama-02.jpg"
 g02dsc: jumping fire in a secret ritual  
 g02alt: Morgan Marcum  
@@ -85,7 +85,7 @@ gallery24: "/assets/img/gallery/true-drama-24.jpg"
 g24dsc: Driving up to the Greenwich mansion modeled after the Château de Malmaison in French
 g24alt: Jose Ramos
 thumbgallery001: "/assets/img/ksenia-bychenkova/thumb/true-drama-001.jpg"
-thumbgallery01: "/assets/img/gallery/thumb/true-drama-01.jpg"
+thumbgallery01: "/assets/img/ksenia-bychenkova/thumb/true-drama-01.jpg"
 thumbgallery02: "/assets/img/gallery/thumb/true-drama-02.jpg"
 thumbgallery03: "/assets/img/gallery/thumb/true-drama-03.jpg"
 thumbgallery04: "/assets/img/gallery/thumb/true-drama-04.jpg"
