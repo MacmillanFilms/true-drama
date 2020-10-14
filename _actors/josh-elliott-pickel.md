@@ -9,26 +9,26 @@ aside: 'Strange Bacchic disturbances in the woods protesting a local horror movi
 
 youtube: "fz2SIyeKMIg"
 gallery001: "/assets/img/josh-elliott-pickel/true-drama-001.jpg"
-g001dsc: offering handcuffs modeling a new kind of policing
-g001alt: Tatiana Galliher 
-gallery01: "/assets/img/gallery/true-drama-01.jpg"
-g01dsc: offering handcuffs modeling a new kind of policing
-g01alt: Tatiana Galliher 
-gallery02: "/assets/img/gallery/true-drama-02.jpg"
-g02dsc: jumping fire in a secret ritual  
-g02alt: Morgan Marcum  
-gallery03: "/assets/img/gallery/true-drama-03.jpg"
-g03dsc: attempts escape from the Slashers nest
-g03alt: Alanah Rafferty 
-gallery04: "/assets/img/gallery/true-drama-04.jpg"
-g04dsc: center stage in True Drama 
-g04alt: James Thomas
-gallery05: "/assets/img/gallery/true-drama-05.jpg"
-g05dsc: deep underground in the private mausoleum
-g05alt: Tatiana Galliher  
-gallery06: "/assets/img/gallery/true-drama-06.jpg"
-g06dsc:  Driving up to the Greenwich mansion modeled after the Château de Malmaison in French 
-g06alt: Tatiana Galliher  
+g001dsc: Josh Elliott Pickel
+g001alt: TJosh Elliott Pickel
+gallery01: "/assets/img/josh-elliott-pickel/true-drama-01.jpg"
+g01dsc: Josh Elliott Pickel
+g01alt: Josh Elliott Pickel
+gallery02: "/assets/img/josh-elliott-pickel/true-drama-02.jpg"
+g02dsc: Josh Elliott Pickel  
+g02alt: Josh Elliott Pickel 
+gallery03: "/assets/img/josh-elliott-pickel/true-drama-03.jpg"
+g03dsc: Josh Elliott Pickel
+g03alt: Josh Elliott Pickel
+gallery04: "/assets/img/josh-elliott-pickel/true-drama-04.jpg"
+g04dsc: Josh Elliott Pickel
+g04alt: Josh Elliott Pickel
+gallery05: "/assets/img/josh-elliott-pickel/true-drama-05.jpg"
+g05dsc: Josh Elliott Pickel
+g05alt: Josh Elliott Pickel  
+gallery06: "/assets/img/josh-elliott-pickel/true-drama-06.jpg"
+g06dsc:  Josh Elliott Pickel
+g06alt: Josh Elliott Pickel  
 gallery07: "/assets/img/gallery/true-drama-07.jpg"
 g07dsc:  Officer Walsh approached the wealth Greenwich patron Mrs. Benedict
 g07alt: Tatiana Galliher  
@@ -84,12 +84,12 @@ gallery24: "/assets/img/gallery/true-drama-24.jpg"
 g24dsc: Driving up to the Greenwich mansion modeled after the Château de Malmaison in French
 g24alt: Jose Ramos
 thumbgallery001: "/assets/img/josh-elliott-pickel/thumb/true-drama-001.jpg"
-thumbgallery01: "/assets/img/gallery/thumb/true-drama-01.jpg"
-thumbgallery02: "/assets/img/gallery/thumb/true-drama-02.jpg"
-thumbgallery03: "/assets/img/gallery/thumb/true-drama-03.jpg"
-thumbgallery04: "/assets/img/gallery/thumb/true-drama-04.jpg"
-thumbgallery05: "/assets/img/gallery/thumb/true-drama-05.jpg"
-thumbgallery06: "/assets/img/gallery/thumb/true-drama-06.jpg"
+thumbgallery01: "/assets/img/josh-elliott-pickel/thumb/true-drama-01.jpg"
+thumbgallery02: "/assets/img/josh-elliott-pickel/thumb/true-drama-02.jpg"
+thumbgallery03: "/assets/img/josh-elliott-pickel/thumb/true-drama-03.jpg"
+thumbgallery04: "/assets/img/josh-elliott-pickel/thumb/true-drama-04.jpg"
+thumbgallery05: "/assets/img/josh-elliott-pickel/thumb/true-drama-05.jpg"
+thumbgallery06: "/assets/img/josh-elliott-pickel/thumb/true-drama-06.jpg"
 thumbgallery07: "/assets/img/gallery/thumb/true-drama-07.jpg"
 thumbgallery08: "/assets/img/gallery/thumb/true-drama-08.jpg"
 thumbgallery09: "/assets/img/gallery/thumb/true-drama-09.jpg"
