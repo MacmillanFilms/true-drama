@@ -27,12 +27,11 @@ baseurl:
 url: https://truedramamovie.com
 email: james@macmillanfilms.com
 enforce_ssl: truedramamovie.com
-description: 'Strange Bacchic disturbances in the woods protesting a local horror
+description: |
+  Strange Bacchic disturbances in the woods protesting a local horror
   movie prompt a police investigation. A shadowy figure emerges. Calling himself the
   God of Drama, he believes that he can achieve the seemingly impossible goal of returning
   drama to its original purpose – of preparing citizens for leadership in democracy.
-
-'
 image: "/assets/img/logo.svg"
 search: true
 markdown: kramdown
