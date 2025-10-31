@@ -25,6 +25,7 @@ defaults:
   - scope:
      path: ""
     values:
+      youtube: fz2SIyeKMIg
       g01: "/assets/img/gallery/true-drama-01.jpg"
       g01dsc: offering handcuffs modeling a new kind of policing
       g01alt: Tatiana Galliher

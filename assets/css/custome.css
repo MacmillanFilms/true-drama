@@ -222,13 +222,6 @@ button:focus {
     color: rgb(252 2 2);
 }
 
-#trailer,
-#gallery,
-#about {
-    padding-top: 51px;
-    margin-top: -51px;
-}
-
 #carousel-thumbs {
     background: rgb(16 19 28);
     bottom: 0;
@@ -240,6 +233,7 @@ button:focus {
 #carousel-thumbs img {
     border: 3px solid transparent;
     cursor: pointer;
+    max-height: 96px;
 }
 
 #carousel-thumbs img:hover {

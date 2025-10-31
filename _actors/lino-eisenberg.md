@@ -7,7 +7,6 @@ article: >
  <p class="text-white">JLino plays the obsessive teen fan Dick in True Drama. His roles in major features are maybe as a result of his being cast by MacMillan Films in Tue Drama.</p>
 aside: 'Strange Bacchic disturbances in the woods protesting a local horror movie prompt a police investigation. A shadowy figure emerges.  Calling himself the God of Drama, he believes that he can achieve the seemingly impossible goal of returning drama to its original purpose – of preparing citizens for leadership in democracy. As the horror movie spirals out of control, and the Bacchae are consumed in violence - can officer Ailish Walsh discern the truth before a gruesome Greek drama unfolds? <br><br> Director James Thomas creates a Greek tragedy for our time. A horror story that looks at the original role of drama – as the companion invention of democracy – to shed light on how modern media is still working in our lives, in hidden ways, to rip us apart. True Drama is an alarm – a rare moment of clarity – a terrifying jolt - and an invitation to enjoy the true transcendental power of drama to help us envision a better Democracy. '
 
-youtube: "fz2SIyeKMIg"
 g01: "/assets/img/lino-eisenberg/true-drama-001.jpg"
 g01dsc: photographed during the filming of True Drama
 g01alt: Lino Eisenberg 

@@ -15,9 +15,13 @@ layout: compress
   <main data-bs-spy="scroll" data-bs-target="#menu-links" data-bs-offset="0">
     {{ content }}
 
-    {% include trailer.html youtube=page.youtube %}
-
+    {%- if page.collection == "actors" -%}
     {%- include gallery.html -%}
+    {%- include trailer.html -%}
+    {%- else -%}
+    {%- include trailer.html -%}
+    {%- include gallery.html -%}
+    {%- endif -%}
 
     {%- include watchit.html -%}
 

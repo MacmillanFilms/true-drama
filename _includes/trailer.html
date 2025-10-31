@@ -14,10 +14,10 @@
       <div class="row">
         <div class="col-md-12 text-center p-0">
           <div class="ratio ratio-16x9">
-            <a id="youtube-video" href="https://youtu.be/{{ page.youtube | default: 'fz2SIyeKMIg'}}" data-youtube="{{ page.youtube | default: 'fz2SIyeKMIg'}}" target="_blank">
+            <a id="youtube-video" href="https://youtu.be/{{ page.youtube }}" data-youtube="{{ page.youtube }}" target="_blank">
               <picture>
-                <source srcset="https://i.ytimg.com/vi_webp/{{ page.youtube | default: 'fz2SIyeKMIg'}}/maxresdefault.webp" type="image/webp" />
-                <img src="https://i.ytimg.com/vi/{{ page.youtube | default: 'fz2SIyeKMIg'}}/maxresdefault.jpg" alt="Watch the Trailer"
+                <source srcset="https://i.ytimg.com/vi_webp/{{ page.youtube }}/maxresdefault.webp" type="image/webp" />
+                <img src="https://i.ytimg.com/vi/{{ page.youtube }}/maxresdefault.jpg" alt="Watch the Trailer"
                   class="img-fluid object-fit-cover"  width="1280" height="720"/>
               </picture>
               <i class="fa-brands fa-youtube position-absolute top-50 start-50 translate-middle" aria-hidden="true"></i>
