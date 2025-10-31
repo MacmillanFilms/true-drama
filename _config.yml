@@ -14,12 +14,8 @@ description: |
 image: "/assets/img/logo.svg"
 collections:
   actors:
-    title: Actors
     output: true
     permalink: "/:collection/:title"
-    source: actors.csv
-    layout: actor
-    id_key: id
 defaults:
   - scope:
       path: ""
