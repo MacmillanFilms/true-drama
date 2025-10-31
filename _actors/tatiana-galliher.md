@@ -57,27 +57,6 @@ g16alt: Tatiana Galliher
 g17: "/assets/img/tatiana-galliher/true-drama-16.jpg"
 g17dsc:  set photo in True Drama 
 g17alt: Tatiana Galliher
-g18: "/assets/img/gallery/true-drama-17.jpg"
-g18dsc:   Officer Walsh sees posters for Greek Dramas in the foyer of the theater at the abandoned sanitarium 
-g18alt: Tatiana Galliher 
-g19: "/assets/img/gallery/true-drama-18.jpg"
-g19dsc:  Officer Walsh hears something unnerving she approached the theater stage 
-g19alt: Tatiana Galliher  
-g20: "/assets/img/gallery/true-drama-19.jpg"
-g20dsc: Dionsysos uses flash powder to create a distraction so he can avoid being tased by police
-g20alt: James Thomas
-g21: "/assets/img/gallery/true-drama-20.jpg"
-g21dsc: Sara feels someone is looking at her through the window, as she showers in the Slasher's house
-g21alt: Alanah Rafferty
-g22: "/assets/img/gallery/true-drama-21.jpg"
-g22dsc: The Greenwich Slasher wearing his mask and spying on the women in the shower
-g22alt: Yohan Belmin
-g23: "/assets/img/gallery/true-drama-22.jpg"
-g23dsc: Miss Ukraine and the other female victims try to stay save amid the chaos on set
-g23alt: Katka Krajcovic 
-g24: "/assets/img/gallery/true-drama-23.jpg"
-g24dsc: Detective Oliva in from of the crime board
-g24alt: Jose Ramos
 g03: "/assets/img/tatiana-galliher/true-drama-02.jpg"
 g03dsc: Driving up to the Greenwich mansion modeled after the Château de Malmaison in French
 g03alt: Jose Ramos
@@ -97,13 +76,6 @@ g14thumb: "/assets/img/tatiana-galliher/thumb/true-drama-13.jpg"
 g15thumb: "/assets/img/tatiana-galliher/thumb/true-drama-14.jpg"
 g16thumb: "/assets/img/tatiana-galliher/thumb/true-drama-15.jpg"
 g17thumb: "/assets/img/tatiana-galliher/thumb/true-drama-16.jpg"
-g18thumb: "/assets/img/gallery/thumb/true-drama-17.jpg"
-g19thumb: "/assets/img/gallery/thumb/true-drama-18.jpg"
-g20thumb: "/assets/img/gallery/thumb/true-drama-19.jpg"
-g21thumb: "/assets/img/gallery/thumb/true-drama-20.jpg"
-g22thumb: "/assets/img/gallery/thumb/true-drama-21.jpg"
-g23thumb: "/assets/img/gallery/thumb/true-drama-22.jpg"
-g24thumb: "/assets/img/gallery/thumb/true-drama-23.jpg"
 g03thumb: "/assets/img/tatiana-galliher/thumb/true-drama-02.jpg"
 
 layout: actor

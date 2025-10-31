@@ -33,54 +33,6 @@ g07alt: William Biestek
 g08: "/assets/img/william-biestek/true-drama-08.jpg"
 g08dsc:  William Biestek
 g08alt: William Biestek
-g09: "/assets/img/gallery/true-drama-09.jpg"
-g09dsc: showing the climactic Exodus of the drama  
-g09alt: James Thomas
-g10: "/assets/img/gallery/true-drama-10.jpg"
-g10dsc:  Officer Walsh finds Dionysus in the rafters of the theater at the abandoned sanitarium  
-g10alt: Tatiana Galliher  
-g11: "/assets/img/gallery/true-drama-11.jpg"
-g11dsc:  Dionysus looks down from the rigging of the theater at the abandoned sanitarium  
-g11alt: James Thomas
-g12: "/assets/img/gallery/true-drama-12.jpg"
-g12dsc:  Sara's POV from inside a coffin, looking up at the terrifying masked slasher 
-g12alt: Scott Kozel 
-g13: "/assets/img/gallery/true-drama-13.jpg"
-g13dsc:  A tracking shot of the slasher taking his female captive to his underground lair 
-g13alt: Scott Kozel 
-g14: "/assets/img/gallery/true-drama-14.jpg"
-g14dsc:  Mr. B directs from the control room as Sara is chained to a rack before being tortured 
-g14alt: Aidan Laliberte  
-g15: "/assets/img/gallery/true-drama-15.jpg"
-g15dsc:  Sara begs through her prison bars of the slasher's lair
-g15alt: Alanah Rafferty
-g16: "/assets/img/gallery/true-drama-16.jpg"
-g16dsc:  Detective Oliva and Officer Walsh drive to meet the writer of the slasher script 
-g16alt: Jose Ramos
-g17: "/assets/img/gallery/true-drama-17.jpg"
-g17dsc:   Officer Walsh sees posters for Greek Dramas in the foyer of the theater at the abandoned sanitarium 
-g17alt: Tatiana Galliher 
-g18: "/assets/img/gallery/true-drama-18.jpg"
-g18dsc:  Officer Walsh hears something unnerving she approached the theater stage 
-g18alt: Tatiana Galliher  
-g19: "/assets/img/gallery/true-drama-19.jpg"
-g19dsc: Dionsysos uses flash powder to create a distraction so he can avoid being tased by police
-g19alt: James Thomas
-g20: "/assets/img/gallery/true-drama-20.jpg"
-g20dsc: Sara feels someone is looking at her through the window, as she showers in the Slasher's house
-g20alt: Alanah Rafferty
-g21: "/assets/img/gallery/true-drama-21.jpg"
-g21dsc: The Greenwich Slasher wearing his mask and spying on the women in the shower
-g21alt: Yohan Belmin
-g22: "/assets/img/gallery/true-drama-22.jpg"
-g22dsc: Miss Ukraine and the other female victims try to stay save amid the chaos on set
-g22alt: Katka Krajcovic 
-g23: "/assets/img/gallery/true-drama-23.jpg"
-g23dsc: Detective Oliva in from of the crime board
-g23alt: Jose Ramos
-g24: "/assets/img/gallery/true-drama-24.jpg"
-g24dsc: Driving up to the Greenwich mansion modeled after the Château de Malmaison in French
-g24alt: Jose Ramos
 g01thumb: "/assets/img/william-biestek/thumb/true-drama-01.jpg"
 g02thumb: "/assets/img/william-biestek/thumb/true-drama-02.jpg"
 g03thumb: "/assets/img/william-biestek/thumb/true-drama-03.jpg"
@@ -89,23 +41,6 @@ g05thumb: "/assets/img/william-biestek/thumb/true-drama-05.jpg"
 g06thumb: "/assets/img/william-biestek/thumb/true-drama-06.jpg"
 g07thumb: "/assets/img/william-biestek/thumb/true-drama-07.jpg"
 g08thumb: "/assets/img/william-biestek/thumb/true-drama-08.jpg"
-g09thumb: "/assets/img/gallery/thumb/true-drama-09.jpg"
-g10thumb: "/assets/img/gallery/thumb/true-drama-10.jpg"
-g11thumb: "/assets/img/gallery/thumb/true-drama-11.jpg"
-g12thumb: "/assets/img/gallery/thumb/true-drama-12.jpg"
-g13thumb: "/assets/img/gallery/thumb/true-drama-13.jpg"
-g14thumb: "/assets/img/gallery/thumb/true-drama-14.jpg"
-g15thumb: "/assets/img/gallery/thumb/true-drama-15.jpg"
-g16thumb: "/assets/img/gallery/thumb/true-drama-16.jpg"
-g17thumb: "/assets/img/gallery/thumb/true-drama-17.jpg"
-g18thumb: "/assets/img/gallery/thumb/true-drama-18.jpg"
-g19thumb: "/assets/img/gallery/thumb/true-drama-19.jpg"
-g20thumb: "/assets/img/gallery/thumb/true-drama-20.jpg"
-g21thumb: "/assets/img/gallery/thumb/true-drama-21.jpg"
-g22thumb: "/assets/img/gallery/thumb/true-drama-22.jpg"
-g23thumb: "/assets/img/gallery/thumb/true-drama-23.jpg"
-g24thumb: "/assets/img/gallery/thumb/true-drama-24.jpg"
-
 layout: actor
 ---
 

@@ -71,18 +71,6 @@ g20alt: Alanah Rafferty
 g21: "/assets/img/alanah-rafferty/true-drama-20.jpg"
 g21dsc: photographed during the filming of True Drama 
 g21alt: Alanah Rafferty
-g22: "/assets/img/gallery/true-drama-21.jpg"
-g22dsc: The Greenwich Slasher wearing his mask and spying on the women in the shower
-g22alt: Yohan Belmin
-g23: "/assets/img/gallery/true-drama-22.jpg"
-g23dsc: Miss Ukraine and the other female victims try to stay save amid the chaos on set
-g23alt: Katka Krajcovic 
-g24: "/assets/img/gallery/true-drama-23.jpg"
-g24dsc: Detective Oliva in from of the crime board
-g24alt: Jose Ramos
-g24: "/assets/img/gallery/true-drama-24.jpg"
-g24dsc: Driving up to the Greenwich mansion modeled after the Château de Malmaison in French
-g24alt: Jose Ramos
 g01thumb: "/assets/img/alanah-rafferty/thumb/true-drama-02.jpg"
 g02thumb: "/assets/img/alanah-rafferty/thumb/true-drama-01.jpg"
 g03thumb: "/assets/img/alanah-rafferty/thumb/true-drama-001.jpg"
@@ -104,11 +92,6 @@ g18thumb: "/assets/img/alanah-rafferty/thumb/true-drama-17.jpg"
 g19thumb: "/assets/img/alanah-rafferty/thumb/true-drama-18.jpg"
 g20thumb: "/assets/img/alanah-rafferty/thumb/true-drama-19.jpg"
 g21thumb: "/assets/img/alanah-rafferty/thumb/true-drama-20.jpg"
-g22thumb: "/assets/img/gallery/thumb/true-drama-21.jpg"
-g23thumb: "/assets/img/gallery/thumb/true-drama-22.jpg"
-g24thumb: "/assets/img/gallery/thumb/true-drama-23.jpg"
-g24thumb: "/assets/img/gallery/thumb/true-drama-24.jpg"
-
 layout: actor
 ---
 
