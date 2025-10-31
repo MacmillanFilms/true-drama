@@ -12,10 +12,10 @@
 
     /* Handle carousel thumbnails */
     /* https://stackoverflow.com/questions/25752187/bootstrap-carousel-with-thumbnails-multiple-carousel */
-    document.querySelectorAll('[id^=carousel-selector-]').forEach(function (el) {
+    document.querySelectorAll('#carousel-thumbs .thumb').forEach(function (el) {
         el.addEventListener('click', function () {
-            var id_selector = el.id;
-            var id = parseInt(id_selector.substring(id_selector.lastIndexOf('-') + 1), 10);
+            /* look at the data-slide-number attribute to get the id */
+            var id = el.dataset.slideTo;
             if (myCarousel) {
                 var carouselInstance = bootstrap.Carousel.getInstance(myCarousel);
                 if (carouselInstance) carouselInstance.to(id);
@@ -68,7 +68,7 @@
     if (myCarousel) {
         myCarousel.addEventListener('slide.bs.carousel', function (e) {
             var id = parseInt(e.relatedTarget.getAttribute('data-slide-number'), 10);
-            document.querySelectorAll('[id^=carousel-selector-]').forEach(function (el) {
+            document.querySelectorAll('#carousel-thumbs .thumb').forEach(function (el) {
                 el.classList.remove('selected');
             });
             var selected = document.getElementById('carousel-selector-' + id);

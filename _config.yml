@@ -1,6 +1,17 @@
 ---
 title: True Drama
-timezone: America/New_York
+author: Macmillan Films
+tagline: "A Macmillan Films Production"
+baseurl: ""
+url: https://truedramamovie.com
+email: james@macmillanfilms.com
+enforce_ssl: truedramamovie.com
+description: |
+  Strange Bacchic disturbances in the woods protesting a local horror
+  movie prompt a police investigation. A shadowy figure emerges. Calling himself the
+  God of Drama, he believes that he can achieve the seemingly impossible goal of returning
+  drama to its original purpose – of preparing citizens for leadership in democracy.
+image: "/assets/img/logo.svg"
 collections:
   actors:
     title: Actors
@@ -9,12 +20,6 @@ collections:
     source: actors.csv
     layout: actor
     id_key: id
-  posts:
-    title: Posts
-    output: false
-  uploads:
-    title: Uploads
-    output: true
 defaults:
   - scope:
       path: ""
@@ -23,7 +28,7 @@ defaults:
       layout: actor
       banner: "/assets/img/hero.jpg"
   - scope:
-     path: ""
+      path: ""
     values:
       youtube: fz2SIyeKMIg
       g01: "/assets/img/gallery/true-drama-01.jpg"
@@ -122,24 +127,11 @@ defaults:
       g22thumb: "/assets/img/gallery/thumb/true-drama-22.jpg"
       g23thumb: "/assets/img/gallery/thumb/true-drama-23.jpg"
       g24thumb: "/assets/img/gallery/thumb/true-drama-24.jpg"
-author: Macmillan Films
-baseurl:
-url: https://truedramamovie.com
-email: james@macmillanfilms.com
-enforce_ssl: truedramamovie.com
-description: |
-  Strange Bacchic disturbances in the woods protesting a local horror
-  movie prompt a police investigation. A shadowy figure emerges. Calling himself the
-  God of Drama, he believes that he can achieve the seemingly impossible goal of returning
-  drama to its original purpose – of preparing citizens for leadership in democracy.
-image: "/assets/img/logo.svg"
-search: true
+timezone: America/New_York
 markdown: kramdown
 plugins:
   - jekyll-sitemap
-  - pagemaster
-jekyll-mentions:
-  base_url: https://github.com
+  - jekyll-seo-tag
 compress_html:
   clippings: all
   startings: all
