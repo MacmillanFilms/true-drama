@@ -1,56 +1,78 @@
-<script src="{{ '/assets/js/jquery-3.3.1.slim.min.js'  | relative_url }}"></script>
-
 <script src="{{ '/assets/js/bootstrap.min.js'  | relative_url }}"></script>
-<script src="{{ '/assets/js/ekko-lightbox.js'  | relative_url }}"></script>
 <script>
-    $('#myCarousel').carousel({
-        interval: false
-    });
-    $('#carousel-thumbs').carousel({
-        interval: false
+    /* Initialize carousels */
+    var myCarousel = document.getElementById('myCarousel');
+    var carouselThumbs = document.getElementById('carousel-thumbs');
+    if (myCarousel) {
+        new bootstrap.Carousel(myCarousel, { interval: false });
+    }
+    if (carouselThumbs) {
+        new bootstrap.Carousel(carouselThumbs, { interval: false });
+    }
+
+    /* Handle carousel thumbnails */
+    /* https://stackoverflow.com/questions/25752187/bootstrap-carousel-with-thumbnails-multiple-carousel */
+    document.querySelectorAll('[id^=carousel-selector-]').forEach(function (el) {
+        el.addEventListener('click', function () {
+            var id_selector = el.id;
+            var id = parseInt(id_selector.substring(id_selector.lastIndexOf('-') + 1), 10);
+            if (myCarousel) {
+                var carouselInstance = bootstrap.Carousel.getInstance(myCarousel);
+                if (carouselInstance) carouselInstance.to(id);
+            }
+        });
     });
 
-    /* handles the carousel thumbnails
-       https://stackoverflow.com/questions/25752187/bootstrap-carousel-with-thumbnails-multiple-carousel 
-    */ 
-    $('[id^=carousel-selector-]').click(function () {
-        var id_selector = $(this).attr('id');
-        var id = parseInt(id_selector.substr(id_selector.lastIndexOf('-') + 1));
-        $('#myCarousel').carousel(id);
-    });
-    /* Only display 3 items in nav on mobile. */ 
-    if ($(window).width() < 575) {
-        $('#carousel-thumbs .row div:nth-child(4)').each(function () {
-            var rowBoundary = $(this);
-            $('<div class="row mx-0">').insertAfter(rowBoundary.parent()).append(rowBoundary.nextAll().addBack());
+    /* Only display 3 items in nav on mobile */
+    if (window.innerWidth < 575) {
+        document.querySelectorAll('#carousel-thumbs .row div:nth-child(4)').forEach(function (rowBoundary) {
+            var parentRow = rowBoundary.parentElement;
+            var newRow = document.createElement('div');
+            newRow.className = 'row mx-0';
+            parentRow.parentElement.insertBefore(newRow, parentRow.nextSibling);
+            /* Move all siblings after rowBoundary (including itself) into newRow */
+            var moveNodes = [];
+            var node = rowBoundary;
+            while (node) {
+                moveNodes.push(node);
+                node = node.nextElementSibling;
+            }
+            moveNodes.forEach(function (n) { newRow.appendChild(n); });
         });
-        $('#carousel-thumbs .carousel-item .row:nth-child(even)').each(function () {
-            var boundary = $(this);
-            $('<div class="carousel-item">').insertAfter(boundary.parent()).append(boundary.nextAll().addBack());
+        document.querySelectorAll('#carousel-thumbs .carousel-item .row:nth-child(even)').forEach(function (boundary) {
+            var parentItem = boundary.parentElement;
+            var newItem = document.createElement('div');
+            newItem.className = 'carousel-item';
+            parentItem.parentElement.insertBefore(newItem, parentItem.nextSibling);
+            /* Move all siblings after boundary (including itself) into newItem */
+            var moveNodes = [];
+            var node = boundary;
+            while (node) {
+                moveNodes.push(node);
+                node = node.nextElementSibling;
+            }
+            moveNodes.forEach(function (n) { newItem.appendChild(n); });
         });
     }
-    /* Hide slide arrows if too few items. */
-    if ($('#carousel-thumbs .carousel-item').length < 2) {
-        $('#carousel-thumbs [class^=carousel-control-]').remove();
-        $('.machine-carousel-container #carousel-thumbs').css('padding', '0 5px');
+
+    /* Hide slide arrows if too few items */
+    if (document.querySelectorAll('#carousel-thumbs .carousel-item').length < 2) {
+        document.querySelectorAll('#carousel-thumbs [class^=carousel-control-]').forEach(function (el) {
+            el.remove();
+        });
+        var thumbs = document.querySelector('.machine-carousel-container #carousel-thumbs');
+        if (thumbs) thumbs.style.padding = '0 5px';
     }
-    /* when the carousel slides, auto update */
-    $('#myCarousel').on('slide.bs.carousel', function (e) {
-        var id = parseInt($(e.relatedTarget).attr('data-slide-number'));
-        $('[id^=carousel-selector-]').removeClass('selected');
-        $('[id=carousel-selector-' + id + ']').addClass('selected');
-    });
 
-    /*
-    $(document).on('click', '[data-toggle="lightbox"]', function(event) {
-      event.preventDefault();
-      $(this).ekkoLightbox();
-    });
-    */
-
-    $('#myCarousel .carousel-item img').on('click', function (e) {
-        var src = $(e.target).attr('data-remote');
-        if (src) $(this).ekkoLightbox();
-    });
+    /* When the carousel slides, auto update */
+    if (myCarousel) {
+        myCarousel.addEventListener('slide.bs.carousel', function (e) {
+            var id = parseInt(e.relatedTarget.getAttribute('data-slide-number'), 10);
+            document.querySelectorAll('[id^=carousel-selector-]').forEach(function (el) {
+                el.classList.remove('selected');
+            });
+            var selected = document.getElementById('carousel-selector-' + id);
+            if (selected) selected.classList.add('selected');
+        });
+    }
 </script>
-<script src="https://s.pageclip.co/v1/pageclip.js" charset="utf-8"></script>

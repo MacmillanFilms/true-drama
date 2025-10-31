@@ -1,120 +1,76 @@
 /*--------------------------------------------------------------
 15. Media queries
 --------------------------------------------------------------*/
-@media only screen and (min-device-width: 1400px) and (max-device-width: 1600px){ 
-   
-
-}
-@media only screen and (min-width : 1600px) {
-
-}
-@media only screen and (min-width: 1200px) {
-
-
-}
-@media only screen and (max-width: 1300px) {
-
-
-}
-
-@media only screen and (max-width: 980px) {
- 
-
-}
-@media only screen and (max-width: 800px) {
-
-}
 @media only screen and (max-width: 768px) {
- .hero {
-    padding: 1rem 0rem 1rem;
-}
-.menu li {
-    font-size: 13px;
-    margin: 0px 5px;
-}
-.about {
-    background-color: #1e1e1e;
-    padding: 1rem 0rem;
-}
-.trailer-box, .gallery-box {
-    padding: 0rem 0rem;
-}
-.about-box{
-padding: 1rem 0px 1rem;
-	}
-.watchit-box {
-    padding: 1rem 0px 4rem;
-}
-.title {
-    font-size: 32px;
-    margin-bottom: 4px;
-}
-.border-title {
-    font-size: 32px;
-    line-height: 32px;
-}
-#trailer, #gallery, #about {
-    padding-top: 44px;
-    margin-top: -44px;
-}
-.navbar-nav {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: row;
-    padding-left: 0;
-    margin-bottom: 0;
-    list-style: none;
-}
-.logo{
-	    width: 100px;
-}
-.main-text {
-    margin: 4rem 0rem;
-}
+    .hero {
+        padding: 1rem 0rem 1rem;
+    }
 
-}
-@media (min-width: 992px){
+    .menu li {
+        font-size: 13px;
+        margin: 0px 5px;
+    }
 
-}
+    .about {
+        background-color: #1e1e1e;
+        padding: 1rem 0rem;
+    }
 
-@media only screen and (max-width: 768px) {
+    .trailer-box,
+    .gallery-box {
+        padding: 0rem 0rem;
+    }
 
-}
-@media only screen and (max-width: 640px) {
-  
+    .about-box {
+        padding: 1rem 0px 1rem;
+    }
 
-}
-    
+    .watchit-box {
+        padding: 1rem 0px 4rem;
+    }
 
-@media only screen and (max-width: 590px) {
+    .title {
+        font-size: 32px;
+        margin-bottom: 4px;
+    }
 
-}
-@media (min-width: 576px){
+    .border-title {
+        font-size: 32px;
+        line-height: 32px;
+    }
+
+    #trailer,
+    #gallery,
+    #about {
+        padding-top: 44px;
+        margin-top: -44px;
+    }
+
+    .navbar-nav {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: row;
+        padding-left: 0;
+        margin-bottom: 0;
+        list-style: none;
+    }
+
+    .logo {
+        width: 100px;
+    }
+
+    .main-text {
+        margin: 4rem 0rem;
+    }
 
 }
 
-@media only screen and (max-width: 480px) {
-  
+@media screen and (max-width: 380px) {
+    .watchit-box {
+        padding: 1rem 0px 5rem;
+    }
 }
-@media only screen and (max-width: 400px) {
-
-}
-@media screen and (max-width: 380px){
-.watchit-box {
-    padding: 1rem 0px 5rem;
-}
-}
-@media screen and (max-width: 321px){
-
-}
-
-
-
-
-
-
-

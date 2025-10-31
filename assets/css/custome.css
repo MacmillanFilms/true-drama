@@ -1,21 +1,12 @@
-@font-face {
-    font-family: ariblk_0;
-    src: url('../fonts/ariblk_0.ttf');
-}
-
-@font-face {
-    font-family: MyriadPro-Regular;
-    src: url('../fonts/MyriadPro-Regular.otf');
-}
-
-html {
+:root {
     position: relative;
     height: 100%;
     scroll-behavior: smooth;
+    --font-neo-grotesque: 'Arial Black', 'Arial Nova', Arial, 'Helvetica Neue', Inter, Roboto, 'Nimbus Sans', sans-serif;
+    --bs-font-sans-serif: 'Myriad Pro', 'Open Sans', Seravek, Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
 }
 
 body {
-    font-family: MyriadPro-Regular;
     overflow-x: hidden;
     padding: 0px;
     margin: 0px;
@@ -41,7 +32,8 @@ body {
     margin: 8rem 0rem;
 }
 
-a, a:hover {
+a,
+a:hover {
     color: inherit;
     transition: all 0.2s ease;
     text-decoration: none;
@@ -56,7 +48,8 @@ a, a:hover {
     padding: 13px 10px;
     color: #f9f9fa;
     border-bottom: 1px solid #dddddd;
-    font-family: ariblk_0;
+    font-family: var(--font-neo-grotesque);
+    font-weight: 900;
     text-transform: uppercase;
     text-align: center;
     position: sticky;
@@ -85,7 +78,8 @@ a, a:hover {
 
 .title {
     color: #f9f9fa;
-    font-family: ariblk_0;
+    font-family: var(--font-neo-grotesque);
+    font-weight: 900;
     font-size: 37px;
     text-transform: uppercase;
     margin-bottom: 15px;
@@ -98,7 +92,8 @@ a, a:hover {
 
 .sub-title {
     color: #f9f9fa;
-    font-family: ariblk_0;
+    font-family: var(--font-neo-grotesque);
+    font-weight: 900;
     font-size: 19px;
     text-transform: uppercase;
     margin-bottom: 4px;
@@ -133,33 +128,45 @@ a, a:hover {
     color: #10131c;
     font-size: 37px;
     text-transform: uppercase;
-    font-family: ariblk_0;
+    font-family: var(--font-neo-grotesque);
+    font-weight: 900;
     border-left: 2px solid #a0a0a0;
     padding-left: 22px;
     line-height: 40px;
 }
 
-.trailer, .gallery, .watchit {
+.trailer,
+.gallery,
+.watchit {
     background-color: #1e1e1e;
 }
 
 .gallery {
     background-color: #10131c;
 }
-.gallery-cust{
- background-color: #1e1e1e
-}
-.trailer-cust{
-background-color: #10131c;
+
+.gallery-cust {
+    background-color: #1e1e1e
 }
 
-.trailer-box, .gallery-box, .watchit-box {
-   
+.trailer-cust {
     background-color: #10131c;
 }
-.about-box, .trailer-box, .gallery-box, .watchit-box {
- padding: 3rem 0rem;
+
+.trailer-box,
+.gallery-box,
+.watchit-box {
+
+    background-color: #10131c;
 }
+
+.about-box,
+.trailer-box,
+.gallery-box,
+.watchit-box {
+    padding: 3rem 0rem;
+}
+
 .alert-white {
     background-color: #fff;
     color: #050505;
@@ -186,7 +193,10 @@ button:focus {
     object-fit: cover;
 }
 
-.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
+.navbar-dark .navbar-nav .active>.nav-link,
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link.show,
+.navbar-dark .navbar-nav .show>.nav-link {
     color: #fc0202;
 }
 
@@ -205,11 +215,14 @@ button:focus {
     justify-content: center;
 }
 
-.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+.navbar-dark .navbar-nav .nav-link:focus,
+.navbar-dark .navbar-nav .nav-link:hover {
     color: rgb(252 2 2);
 }
 
-#trailer, #gallery, #about {
+#trailer,
+#gallery,
+#about {
     padding-top: 51px;
     margin-top: -51px;
 }
@@ -235,7 +248,8 @@ button:focus {
     border-color: #fc0202;
 }
 
-.carousel-control-prev, .carousel-control-next {
+.carousel-control-prev,
+.carousel-control-next {
     width: 50px;
 }
 
