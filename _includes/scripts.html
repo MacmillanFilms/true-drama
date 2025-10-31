@@ -75,4 +75,23 @@
             if (selected) selected.classList.add('selected');
         });
     }
+
+    /* Trailer embed iframe on click */
+    var trailerElement = document.getElementById('youtube-video');
+    if (trailerElement) {
+        trailerElement.setAttribute('role', 'button');
+        /* On click, replace with iframe */
+        trailerElement.addEventListener('click', function (e) {
+            e.preventDefault();
+            var youtubeId = trailerElement.getAttribute('data-youtube');
+            var iframe = document.createElement('iframe');
+            iframe.setAttribute('src', 'https://www.youtube.com/embed/' + youtubeId + '?autoplay=1&rel=0');
+            iframe.setAttribute('title', 'YouTube video player');
+            iframe.setAttribute('frameborder', '0');
+            iframe.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share');
+            iframe.setAttribute('referrerpolicy', 'strict-origin-when-cross-origin');
+            iframe.setAttribute('allowfullscreen', 'true');
+            trailerElement.replaceWith(iframe);
+        });
+    }
 </script>

@@ -4,7 +4,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <div class="border-title">TRAILERS</div>
+          <div class="border-title text-uppercase">Trailers</div>
         </div>
       </div>
     </div>
@@ -14,9 +14,14 @@
       <div class="row">
         <div class="col-md-12 text-center p-0">
           <div class="ratio ratio-16x9">
-            <iframe src="https://www.youtube.com/embed/fz2SIyeKMIg" frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              referrerpolicy="strict-origin-when-cross-origin" loading="lazy" allowfullscreen></iframe>
+            <a id="youtube-video" href="https://youtu.be/{{ page.youtube | default: 'fz2SIyeKMIg'}}" data-youtube="{{ page.youtube | default: 'fz2SIyeKMIg'}}" target="_blank">
+              <picture>
+                <source srcset="https://i.ytimg.com/vi_webp/{{ page.youtube | default: 'fz2SIyeKMIg'}}/maxresdefault.webp" type="image/webp" />
+                <img src="https://i.ytimg.com/vi/{{ page.youtube | default: 'fz2SIyeKMIg'}}/maxresdefault.jpg" alt="Watch the Trailer"
+                  class="img-fluid object-fit-cover"  width="1280" height="720"/>
+              </picture>
+              <i class="fa-brands fa-youtube position-absolute top-50 start-50 translate-middle" aria-hidden="true"></i>
+            </a>
           </div>
         </div>
       </div>

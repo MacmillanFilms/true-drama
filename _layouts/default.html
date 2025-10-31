@@ -6,23 +6,25 @@ layout: compress
 
 {%- include head.html -%}
 
-<body data-spy="scroll" data-target=".navbar" data-offset="50">
+<body>
 
   {%- include header.html -%}
 
   {%- include menu.html -%}
 
-  {{ content }}
+  <main data-bs-spy="scroll" data-bs-target="#menu-links" data-bs-offset="0">
+    {{ content }}
 
-  {%- include trailer.html -%}
+    {% include trailer.html youtube=page.youtube %}
 
-  {%- include gallery.html -%}
+    {%- include gallery.html -%}
 
-  {%- include watchit.html -%}
+    {%- include watchit.html -%}
 
-  {%- include footer.html -%}
+    {%- include footer.html -%}
 
-  {%- include scripts.html -%}
+    {%- include scripts.html -%}
+  </main>
 
 </body>
 

@@ -50,7 +50,6 @@ a:hover {
     border-bottom: 1px solid #dddddd;
     font-family: var(--font-neo-grotesque);
     font-weight: 900;
-    text-transform: uppercase;
     text-align: center;
     position: sticky;
     width: 100%;
@@ -127,7 +126,6 @@ a:hover {
 .border-title {
     color: #10131c;
     font-size: 37px;
-    text-transform: uppercase;
     font-family: var(--font-neo-grotesque);
     font-weight: 900;
     border-left: 2px solid #a0a0a0;
@@ -145,19 +143,23 @@ a:hover {
     background-color: #10131c;
 }
 
-.gallery-cust {
-    background-color: #1e1e1e
-}
-
-.trailer-cust {
-    background-color: #10131c;
-}
-
 .trailer-box,
 .gallery-box,
 .watchit-box {
 
     background-color: #10131c;
+}
+
+#youtube-video i {
+    font-size: 6rem;
+    font-size: 15cqmin;
+    color: #fff;
+    opacity: 0.9;
+}
+
+#youtube-video:hover i {
+    color: #f03;
+    opacity: 1;
 }
 
 .about-box,
